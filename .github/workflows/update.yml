@@ -1,0 +1,75 @@
+name: Update IPTV M3U Files
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'   # 每两小时
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download M3U files
+        run: |
+          set -e
+          echo "开始下载 M3U 文件..."
+
+          base="https://sub.ottiptv.cc"
+          files=("yylunbo.m3u" "huyayqk.m3u" "douyuyqk.m3u" "bililive.m3u")
+
+          download_with_retry () {
+              local url="$1"
+              local outfile="$2"
+              local tmpfile="${outfile}.tmp"
+              local attempt=1
+              local max=5
+
+              rm -f "$tmpfile"
+              while [ $attempt -le $max ]; do
+                  echo "[$attempt/$max] 下载 $outfile"
+                  if wget -q --timeout=10 --connect-timeout=10 "$url" -O "$tmpfile"; then
+                      if [ -s "$tmpfile" ]; then
+                          mv "$tmpfile" "$outfile"
+                          echo "成功下载 $outfile"
+                          return 0
+                      fi
+                  fi
+                  echo "失败，等待 $attempt 秒后重试..."
+                  sleep $attempt
+                  attempt=$((attempt+1))
+              done
+
+              echo "最终下载失败，保留旧文件：$outfile"
+              rm -f "$tmpfile"
+              return 1
+          }
+
+          for f in "${files[@]}"; do
+              download_with_retry "${base}/${f}" "$f" || true
+          done
+
+      - name: Commit changes
+        run: |
+          git config --local user.name  "GitHub Actions"
+          git config --local user.email "actions@github.com"
+
+          git add *.m3u || true
+
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+
+          git commit -m "Auto update IPTV M3U files: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
