@@ -1,84 +1,62 @@
-# 直播源 订阅列表
+# 直播源订阅列表
 
 <style>
-body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; }
-.header-box {
-  background-color:#4f46e5;
-  color:white;
-  text-align:center;
-  padding:2rem 1rem;
-  border-radius:10px;
+.block {
+  position: relative;
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 6px;
+  font-family: monospace;
+  margin-bottom: 1rem;
+  overflow: hidden;
 }
-.playlist {
-  background-color:white;
-  padding:1rem 1.5rem;
-  margin:1rem 0;
-  border-radius:8px;
-  box-shadow:0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s;
+.copy-badge {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  font-size: 0.75rem;
+  color: #666;
+  opacity: 0;
+  transition: opacity 0.2s;
 }
-.playlist:hover { transform: translateY(-2px); }
-.link-block {
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  background:#f5f5f5;
-  padding:0.5rem 1rem;
-  border-radius:5px;
-  font-family:monospace;
-  word-break:break-all;
-  cursor:pointer;
+.block:hover .copy-badge {
+  opacity: 1;
 }
-.link-block:hover { background:#e0e0e0; }
-.description { font-size:0.9rem; color:#555; margin-top:0.2rem; }
-footer { text-align:center; padding:1rem; font-size:0.9rem; color:#888; }
 </style>
 
-<div class="header-box">
-  <h1>直播源 订阅列表</h1>
-  <p>点击链接即可复制完整 URL，在播放器中使用</p>
+<div style="background:#4f46e5;color:white;padding:2rem 1rem;border-radius:10px;text-align:center;">
+  <h2 style="margin:0;font-size:2rem;">直播源订阅列表</h2>
+  <p>鼠标移动到代码块右上角，会显示复制提示</p>
 </div>
 
 ---
 
-<div class="playlist">
-  <div class="link-block" onclick="copyToClipboard('https://sub.ishare.us.kg/yylunbo.m3u')">
-    https://sub.ishare.us.kg/yylunbo.m3u
-  </div>
-  <span class="description">YY轮播源，每天更新</span>
+## YY轮播源（每天更新）
+<div class="block">
+  <span class="copy-badge">复制</span>
+  https://sub.ishare.us.kg/yylunbo.m3u
 </div>
 
-<div class="playlist">
-  <div class="link-block" onclick="copyToClipboard('https://sub.ishare.us.kg/huyayqk.m3u')">
-    https://sub.ishare.us.kg/huyayqk.m3u
-  </div>
-  <span class="description">HUYA直播频道列表</span>
+## HUYA 直播频道
+<div class="block">
+  <span class="copy-badge">复制</span>
+  https://sub.ishare.us.kg/huyayqk.m3u
 </div>
 
-<div class="playlist">
-  <div class="link-block" onclick="copyToClipboard('https://sub.ishare.us.kg/douyuyqk.m3u')">
-    https://sub.ishare.us.kg/douyuyqk.m3u
-  </div>
-  <span class="description">斗鱼直播精选</span>
+## 斗鱼直播精选
+<div class="block">
+  <span class="copy-badge">复制</span>
+  https://sub.ishare.us.kg/douyuyqk.m3u
 </div>
 
-<div class="playlist">
-  <div class="link-block" onclick="copyToClipboard('https://sub.ishare.us.kg/bililive.m3u')">
-    https://sub.ishare.us.kg/bililive.m3u
-  </div>
-  <span class="description">Bilibili 直播频道</span>
+## Bilibili 直播频道
+<div class="block">
+  <span class="copy-badge">复制</span>
+  https://sub.ishare.us.kg/bililive.m3u
 </div>
 
-<footer>
-  © 2025 IPTV 发布页面 | Powered by GitHub Pages
-</footer>
+---
 
-<script>
-function copyToClipboard(text) {
-  navigator.clipboard.writeText(text).then(() => {
-    alert('已复制链接：\n' + text);
-  }, () => {
-    alert('复制失败，请手动复制：\n' + text);
-  });
-}
-</script>
+<div style="text-align:center;color:#777;margin-top:2rem;">
+© 2025 IPTV 发布页面 | Powered by GitHub Pages
+</div>
