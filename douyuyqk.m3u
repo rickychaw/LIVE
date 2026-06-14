@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2026-06-15 01:11:14" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2026-06-15 01:11:14
+#EXTINF:-1 tvg-name="2026-06-15 03:12:00" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2026-06-15 03:12:00
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
@@ -9,16 +9,18 @@ https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 https://live.ottiptv.cc/douyu/11851549
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202603/cc2980364daf420983ba541f6649c614_big.jpg" group-title="一起看", 小毅主播q
 https://live.ottiptv.cc/douyu/6906628
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202505/c1384406cf82467aa5ede85c74b4bec0_big.jpg" group-title="一起看", 电视剧僵尸约会
+https://live.ottiptv.cc/douyu/8371123
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202604/075e616f3adb4fb79c0a72f036792fff_big.jpg" group-title="一起看", 奇光主播
 https://live.ottiptv.cc/douyu/8009547
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202605/9d6808edc2e745c6b0835a3c7eb60802_big.jpg" group-title="一起看", 奇光主播e
 https://live.ottiptv.cc/douyu/11849873
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="一起看", 橙記Orange丶
+https://live.ottiptv.cc/douyu/4549169
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c8bfde51ded543efa82a3a67ef2585fd_big.jpg" group-title="一起看", 铁甲影院
 https://live.ottiptv.cc/douyu/1274132
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/4b77c73f33f343b3a5acc11c20b69efe_big.jpg" group-title="一起看", baby丶贝贝
 https://live.ottiptv.cc/douyu/431460
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="一起看", 橙記Orange丶
-https://live.ottiptv.cc/douyu/4549169
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/3d5301184d0c4c9abc73d8fc94db111d_big.jpg" group-title="一起看", 龍組队长天昊
 https://live.ottiptv.cc/douyu/1487654
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/bf994a8b9969405a97522a81629ab03e_big.jpg" group-title="一起看", 奇兮兮悄陌
@@ -37,22 +39,24 @@ https://live.ottiptv.cc/douyu/299854
 https://live.ottiptv.cc/douyu/5908256
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f1567c8d2e314c2ca1a826db6637e14c_big.jpg" group-title="一起看", 当铁手团遇到光复社
 https://live.ottiptv.cc/douyu/5875025
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/1b76c5b4db364b37b0883dd072efe74e_big.jpg" group-title="一起看", 竹叶的熊猫
-https://live.ottiptv.cc/douyu/3870925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/010/51/61/02_avatar_big.jpg" group-title="一起看", 懒猫是只喵
 https://live.ottiptv.cc/douyu/260322
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_big.jpg" group-title="一起看", 当幽兰剑遇上链子刀
 https://live.ottiptv.cc/douyu/6027991
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/da18b6ea3de04032bfe5379d8f4f5aeb_big.jpg" group-title="一起看", 怡宝妹妹丶
 https://live.ottiptv.cc/douyu/434971
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/e20be6dedf0744429f83acfe3bbcf704_big.jpg" group-title="一起看", 师落
-https://live.ottiptv.cc/douyu/6911044
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202606/7dcb4796c88c42d19cdcfd925ae9772b_big.jpg" group-title="原创IP", 樂音樂
+https://live.ottiptv.cc/douyu/12855671
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/36e960ea9abf4b219fb1238b755c266a_big.jpg" group-title="一起看", 万事通熊猫
 https://live.ottiptv.cc/douyu/7812810
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/023/48/02/55_avatar_big.jpg" group-title="原创IP", 我们可爱的程程
-https://live.ottiptv.cc/douyu/329667
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/e20be6dedf0744429f83acfe3bbcf704_big.jpg" group-title="一起看", 师落
+https://live.ottiptv.cc/douyu/6911044
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/1b76c5b4db364b37b0883dd072efe74e_big.jpg" group-title="一起看", 竹叶的熊猫
+https://live.ottiptv.cc/douyu/3870925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/04/17/5ced31536273bed685f9f10a956145e5_big.jpg" group-title="原创IP", 牛叔说电影
 https://live.ottiptv.cc/douyu/2758565
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/023/48/02/55_avatar_big.jpg" group-title="原创IP", 我们可爱的程程
+https://live.ottiptv.cc/douyu/329667
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/d56af210b700d7189408044eca2907d2_big.jpg" group-title="一起看", 疯狂尛瀦瀦
 https://live.ottiptv.cc/douyu/4290711
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1b622249ad24a8fa3d6a5885ece793d_big.jpg" group-title="一起看", 蓝翔老三国
@@ -63,28 +67,30 @@ https://live.ottiptv.cc/douyu/319576
 https://live.ottiptv.cc/douyu/3949681
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/ec4aa66bcc8747c1a29284612c8bbd02_big.jpg" group-title="一起看", 飘洋过海来
 https://live.ottiptv.cc/douyu/9548850
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="一起看", 牛奶味的梦猪猪
-https://live.ottiptv.cc/douyu/5261342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/255f1eb5c0a4424eb83cea73b9299f68_big.jpg" group-title="一起看", 永远快乐的小美女
 https://live.ottiptv.cc/douyu/6091425
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/a34ef128255641c7826e4c866357a37f_big.jpg" group-title="一起看", 智仗心
 https://live.ottiptv.cc/douyu/5635000
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/13/01/5ff52107c8b699108cccdb5e0750a466_big.jpg" group-title="一起看", 聚聚聚一个月
 https://live.ottiptv.cc/douyu/4105989
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="一起看", 牛奶味的梦猪猪
+https://live.ottiptv.cc/douyu/5261342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202402/e5dac5afefc0471d88f76e418096a11d_big.jpg" group-title="一起看", 单纯的顺才少爷
 https://live.ottiptv.cc/douyu/10084875
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_big.jpg" group-title="一起看", Only丶邵氏
-https://live.ottiptv.cc/douyu/4246519
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/4887f1dde8c3ad35c367c2d46b76754a_big.jpg" group-title="一起看", 疯狂小潴潴
-https://live.ottiptv.cc/douyu/5522351
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/16_big.jpg" group-title="一起看", dw151295068
-https://live.ottiptv.cc/douyu/12655359
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/00d5d4cb0bbc4599b4a68e93fbfdef0b_big.jpg" group-title="一起看", gslaini
 https://live.ottiptv.cc/douyu/6997954
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_big.jpg" group-title="一起看", Only丶邵氏
+https://live.ottiptv.cc/douyu/4246519
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/27/09/621d09c7651730db93e9081bc16f4f42_big.jpg" group-title="一起看", 甜漫妮666
 https://live.ottiptv.cc/douyu/1569773
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_big.jpg" group-title="一起看", 鯋鱼辰辰
 https://live.ottiptv.cc/douyu/7623292
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/16_big.jpg" group-title="一起看", dw151295068
+https://live.ottiptv.cc/douyu/12655359
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/4887f1dde8c3ad35c367c2d46b76754a_big.jpg" group-title="一起看", 疯狂小潴潴
+https://live.ottiptv.cc/douyu/5522351
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg" group-title="原创IP", 火龙果说电影
+https://live.ottiptv.cc/douyu/9559158
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/54adb764aba24e0f9ed1536054b8b275_big.jpg" group-title="一起看", 一把钢刀镇斗虞
 https://live.ottiptv.cc/douyu/7356023
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/c593dd94c9de4c62976bdec933656562_big.jpg" group-title="一起看", 米尼影院
@@ -99,10 +105,6 @@ https://live.ottiptv.cc/douyu/508118
 https://live.ottiptv.cc/douyu/2793084
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/37db5d974e7f44189ca65528a1e6558f_big.jpg" group-title="一起看", 剧能下饭鹰
 https://live.ottiptv.cc/douyu/11931032
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg" group-title="原创IP", 火龙果说电影
-https://live.ottiptv.cc/douyu/9559158
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202606/7dcb4796c88c42d19cdcfd925ae9772b_big.jpg" group-title="原创IP", 樂音樂
-https://live.ottiptv.cc/douyu/12855671
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34b7efbd221a44adab674a37e6237cc9_big.jpg" group-title="一起看", JhZj丶天明
 https://live.ottiptv.cc/douyu/1006179
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/19ba4a083d154904a748dd5a80372b70_big.jpg" group-title="原创IP", 赵本山经典小品
@@ -119,50 +121,40 @@ https://live.ottiptv.cc/douyu/9067836
 https://live.ottiptv.cc/douyu/9220456
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg" group-title="一起看", 脑袋大1937
 https://live.ottiptv.cc/douyu/7655471
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202605/e0bf61860c954e54b489edc123ff53fd_big.jpg" group-title="原创IP", 崔杋圭五颜一
-https://live.ottiptv.cc/douyu/8189873
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/43dc58eb71f24b89886789f4896f9245_big.jpg" group-title="一起看", 狄胖胖与李乖乖
 https://live.ottiptv.cc/douyu/12183882
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/dde82c1d612f46228c416a46fbed24fe_big.jpg" group-title="原创IP", 墨逗电影
-https://live.ottiptv.cc/douyu/9614847
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202508/30e574b0834148a481ad2481119bdfe3_big.jpg" group-title="原创IP", 兔兔MC维辰软桃团
-https://live.ottiptv.cc/douyu/8266799
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/752236d7a9b746d2a8e29b354e482260_big.jpg" group-title="原创IP", PP看动漫
-https://live.ottiptv.cc/douyu/9837291
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/7e5534093a9f45679db16d3d055ae564_big.jpg" group-title="一起看", 刀刀de食堂
 https://live.ottiptv.cc/douyu/6733133
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202501/d84ff1b1faac45d9a11353a29279cce5_big.jpg" group-title="一起看", 菠萝屋SpongeBob
 https://live.ottiptv.cc/douyu/12400977
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/23_big.jpg" group-title="原创IP", 牛叔说电影二台
-https://live.ottiptv.cc/douyu/10010651
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/8585cc362e4b4f5dbefda7b0be5778e8_big.jpg" group-title="原创IP", 贾玲经典小品
 https://live.ottiptv.cc/douyu/10419541
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/d174a8d3374743caa3389e0d046e2639_big.jpg" group-title="一起看", 十七岁的道姑
-https://live.ottiptv.cc/douyu/3186217
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201712/19/07/5e2df6dc5728b47edb1fa2436953ead8_big.jpg" group-title="一起看", 我砸晕了牛顿奥
-https://live.ottiptv.cc/douyu/1218414
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202605/6171162826554c8b9aea918a8f90f38f_big.jpg" group-title="原创IP", 彼岸心属MADEIN伊藤美优
-https://live.ottiptv.cc/douyu/40471
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b47d17758975484c826f4f0787c2a2a8_big.jpg" group-title="一起看", 徐大sao
 https://live.ottiptv.cc/douyu/7107176
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/d174a8d3374743caa3389e0d046e2639_big.jpg" group-title="一起看", 十七岁的道姑
+https://live.ottiptv.cc/douyu/3186217
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202605/6171162826554c8b9aea918a8f90f38f_big.jpg" group-title="原创IP", 彼岸心属MADEIN伊藤美优
+https://live.ottiptv.cc/douyu/40471
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/23_big.jpg" group-title="原创IP", 牛叔说电影二台
+https://live.ottiptv.cc/douyu/10010651
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/df963d2253024975b7db25fe33311a27_big.jpg" group-title="原创IP", 好剧看不停
 https://live.ottiptv.cc/douyu/9388938
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201712/19/07/5e2df6dc5728b47edb1fa2436953ead8_big.jpg" group-title="一起看", 我砸晕了牛顿奥
+https://live.ottiptv.cc/douyu/1218414
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/c8551e211d0f4e0e8d0e40501355d35f_big.jpg" group-title="一起看", 往事vs随风1
 https://live.ottiptv.cc/douyu/3113309
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/d9f8f285dfd44bcea3cc3e785cdb429e_big.jpg" group-title="原创IP", 科幻Fans布玛
 https://live.ottiptv.cc/douyu/3508304
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/b782fc34f7c34cca86f7852ae4130b70_big.jpg" group-title="原创IP", 开心麻花经典小品
 https://live.ottiptv.cc/douyu/10153463
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202511/4a7e4271688344a6afd7299e79c8427d_big.jpg" group-title="一起看", 猫记丶
-https://live.ottiptv.cc/douyu/9242659
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/09_big.jpg" group-title="一起看", 98博博
 https://live.ottiptv.cc/douyu/12824429
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202510/27d981f5bd0a4b0d85bb8334d7a9964a_big.jpg" group-title="一起看", 奇光主播q
-https://live.ottiptv.cc/douyu/12560807
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="一起看", 狂拽酷炫
 https://live.ottiptv.cc/douyu/4332
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202604/0791af40f4e14d799af410ff6044988a_big.jpg" group-title="一起看", 豆腐芭比
-https://live.ottiptv.cc/douyu/6478650
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202510/27d981f5bd0a4b0d85bb8334d7a9964a_big.jpg" group-title="一起看", 奇光主播q
+https://live.ottiptv.cc/douyu/12560807
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202511/4a7e4271688344a6afd7299e79c8427d_big.jpg" group-title="一起看", 猫记丶
+https://live.ottiptv.cc/douyu/9242659
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202602/b8be1965c3404044acc3be8d9b813e65_big.jpg" group-title="一起看", 钟意嚼完唔松弟弟邊爐
 https://live.ottiptv.cc/douyu/8912325
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/03b1a43d2e644accb3a7d05159b2ef9a_big.jpg" group-title="一起看", 小姐姐不记得
@@ -171,18 +163,18 @@ https://live.ottiptv.cc/douyu/3700024
 https://live.ottiptv.cc/douyu/2287949
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9db730a594c34a7bb96c4408fd03aa24_big.jpg" group-title="原创IP", 自说自话的总裁
 https://live.ottiptv.cc/douyu/9317739
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/792a22940e764b9d80bf0389990dd2ab_big.jpg" group-title="原创IP", 老高与小茉的死忠粉
-https://live.ottiptv.cc/douyu/236461
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5ef9d68abb5b45e4afefe8194b5dcd5c_big.jpg" group-title="原创IP", 小约翰可汗
 https://live.ottiptv.cc/douyu/9738854
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/792a22940e764b9d80bf0389990dd2ab_big.jpg" group-title="原创IP", 老高与小茉的死忠粉
+https://live.ottiptv.cc/douyu/236461
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/1ba33d56167b45b7a2037a6995f107a2_big.jpg" group-title="原创IP", 宋小宝小品
 https://live.ottiptv.cc/douyu/9817729
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ca5c676a22624704918926240dafd120_big.jpg" group-title="一起看", 胡椒粉的胡歌
-https://live.ottiptv.cc/douyu/5448413
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/9f791f6ca56f442988ba1922b7cc9f37_big.jpg" group-title="一起看", 蕃薯粥粥煮好了
 https://live.ottiptv.cc/douyu/11878141
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/65e27dfc059e4b608248289c026c2324_big.jpg" group-title="一起看", 草帽丶海贼团
 https://live.ottiptv.cc/douyu/997925
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ca5c676a22624704918926240dafd120_big.jpg" group-title="一起看", 胡椒粉的胡歌
+https://live.ottiptv.cc/douyu/5448413
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202401/ab21bd810e904947bbdcbbde3c8cdc4c_big.jpg" group-title="一起看", Hi欣欣
 https://live.ottiptv.cc/douyu/11996166
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/31c853d5c63541c6818b54ba487c0e13_big.jpg" group-title="原创IP", 喜剧电影笑不停
@@ -191,16 +183,16 @@ https://live.ottiptv.cc/douyu/10298856
 https://live.ottiptv.cc/douyu/8014467
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/5f342990cc3c47409aef3e28ed04b0d9_big.jpg" group-title="原创IP", 老王忆经典
 https://live.ottiptv.cc/douyu/9687733
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/0be6271f31464d6fbfd775c33e372753_big.jpg" group-title="原创IP", 篮球人物
-https://live.ottiptv.cc/douyu/8434598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/4a8714735df74469bb189b0c700a2633_big.jpg" group-title="原创IP", 游钓中国李大毛
 https://live.ottiptv.cc/douyu/791411
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/0be6271f31464d6fbfd775c33e372753_big.jpg" group-title="原创IP", 篮球人物
+https://live.ottiptv.cc/douyu/8434598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202601/60df4ce9c0374f628483a0ecfecff314_big.jpg" group-title="原创IP", 崔然竣舞台天才
 https://live.ottiptv.cc/douyu/113158
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="一起看", 是个小可爱iiii
-https://live.ottiptv.cc/douyu/9650782
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 龙视本山快乐营
 https://live.ottiptv.cc/douyu/9374865
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="一起看", 是个小可爱iiii
+https://live.ottiptv.cc/douyu/9650782
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/515b8e7ec2a74612857c01cec652a06b_big.jpg" group-title="一起看", 是你的迷弟吖
 https://live.ottiptv.cc/douyu/7039598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/03_big.jpg" group-title="一起看", xguang2013
@@ -233,48 +225,56 @@ https://live.ottiptv.cc/douyu/2337939
 https://live.ottiptv.cc/douyu/6369954
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9d0d7e65a9e643908b12c9fb2caa57af_big.jpg" group-title="原创IP", 宇宙探索飞船
 https://live.ottiptv.cc/douyu/9456028
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/12d5026cff3644fcb5150a7fbf6dfc43_big.jpg" group-title="原创IP", 篮球过人技巧
-https://live.ottiptv.cc/douyu/9406897
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/327d410a41734ba4861a71f8a743a391_big.jpg" group-title="原创IP", 胆子不小的郑吉祥
 https://live.ottiptv.cc/douyu/9171887
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/10_big.jpg" group-title="原创IP", 碎片记
 https://live.ottiptv.cc/douyu/9412981
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/83fe35e42da443fd9dc166edb4b5e245_big.jpg" group-title="原创IP", 用青春去旅行
-https://live.ottiptv.cc/douyu/9629423
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201902/4a23b4202aa54ccfa7054e88a5b87527_big.jpg" group-title="一起看", 傲娇的超级赛亚人
-https://live.ottiptv.cc/douyu/4373285
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/12d5026cff3644fcb5150a7fbf6dfc43_big.jpg" group-title="原创IP", 篮球过人技巧
+https://live.ottiptv.cc/douyu/9406897
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202606/4cf625cf178a4b9d9e5e759229d2a77a_big.jpg" group-title="一起看", 小毅主播K
 https://live.ottiptv.cc/douyu/12851401
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/d71e1fa7f5184c31af7e4144bb2beeee_big.jpg" group-title="原创IP", 王大齐吖
 https://live.ottiptv.cc/douyu/3647278
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/da30ad02b39f456885d93f7ee13d3308_big.jpg" group-title="原创IP", 文西与阿漆
-https://live.ottiptv.cc/douyu/8737695
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/ad7a03ce2b8e497bb19aa26f63c6bac4_big.jpg" group-title="原创IP", 史君说剧
 https://live.ottiptv.cc/douyu/9419771
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/83fe35e42da443fd9dc166edb4b5e245_big.jpg" group-title="原创IP", 用青春去旅行
+https://live.ottiptv.cc/douyu/9629423
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201902/4a23b4202aa54ccfa7054e88a5b87527_big.jpg" group-title="一起看", 傲娇的超级赛亚人
+https://live.ottiptv.cc/douyu/4373285
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/95ad2986dc394cd698e43ab33b666348_big.jpg" group-title="原创IP", 3说电影
 https://live.ottiptv.cc/douyu/9643264
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202605/e0bf61860c954e54b489edc123ff53fd_big.jpg" group-title="原创IP", 崔杋圭五颜一
+https://live.ottiptv.cc/douyu/8189873
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f116dfa55d72414e80d89ae9774c103c_big.jpg" group-title="原创IP", OneGuy丶
 https://live.ottiptv.cc/douyu/9734098
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/81d4f7695fe24716b37d7747837857dc_big.jpg" group-title="一起看", 秋月剪水
 https://live.ottiptv.cc/douyu/9588891
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202602/41e2417adf23418892e7a292f2baab89_big.jpg" group-title="一起看", 爱看剧的家Fat喵
-https://live.ottiptv.cc/douyu/65943
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/dde82c1d612f46228c416a46fbed24fe_big.jpg" group-title="原创IP", 墨逗电影
+https://live.ottiptv.cc/douyu/9614847
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202508/30e574b0834148a481ad2481119bdfe3_big.jpg" group-title="原创IP", 兔兔MC维辰软桃团
+https://live.ottiptv.cc/douyu/8266799
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/da30ad02b39f456885d93f7ee13d3308_big.jpg" group-title="原创IP", 文西与阿漆
+https://live.ottiptv.cc/douyu/8737695
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/752236d7a9b746d2a8e29b354e482260_big.jpg" group-title="原创IP", PP看动漫
+https://live.ottiptv.cc/douyu/9837291
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c7d253e144c04a2c8e4806ecd680dc19_big.jpg" group-title="原创IP", 文侠灬楊楊
 https://live.ottiptv.cc/douyu/10317257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/5492e66e8bde4fa1986e22f71ca4d960_big.jpg" group-title="原创IP", 周六野Zoey
 https://live.ottiptv.cc/douyu/8912150
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202212/cea9500b76dd431faaeea74dc63e3e33_big.jpg" group-title="一起看", 过往1908
 https://live.ottiptv.cc/douyu/8721095
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/4792a8e386444e4783567ff125df84d9_big.jpg" group-title="原创IP", 英大吉来了
-https://live.ottiptv.cc/douyu/9174097
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5030e5daeb564e8eac9dd60a2bde11e5_big.jpg" group-title="一起看", 小小甜的骑士
 https://live.ottiptv.cc/douyu/9236042
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/4792a8e386444e4783567ff125df84d9_big.jpg" group-title="原创IP", 英大吉来了
+https://live.ottiptv.cc/douyu/9174097
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/aaceeee916304e97b09d3c7dbb84776e_big.jpg" group-title="原创IP", 只关于篮球的只老师
 https://live.ottiptv.cc/douyu/9367541
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/a060c002619269ae095259fec27c113f_big.jpg" group-title="原创IP", 堇姑娘
 https://live.ottiptv.cc/douyu/297689
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/578b76629b4f444c98213c981cff8d33_big.jpg" group-title="一起看", 荒野视界
 https://live.ottiptv.cc/douyu/10675329
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="原创IP", 龙视爱笑会议室
+https://live.ottiptv.cc/douyu/9375430
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/80c0bc3372eb480cbdbdb99af5b53aa7_big.jpg" group-title="原创IP", 篮球小人物
 https://live.ottiptv.cc/douyu/9184257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1f62bcbde0c747dba72e4772c9cd9841_big.jpg" group-title="原创IP", 都市夜魔人老王
@@ -283,16 +283,14 @@ https://live.ottiptv.cc/douyu/610972
 https://live.ottiptv.cc/douyu/9805480
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/91ceeaf5f3304a4fb6ec627e60bb680d_big.jpg" group-title="原创IP", 多多看车
 https://live.ottiptv.cc/douyu/4921957
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="原创IP", 龙视爱笑会议室
-https://live.ottiptv.cc/douyu/9375430
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 嘴巴鼻子没有沟
+https://live.ottiptv.cc/douyu/10217984
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201612/02/14/f018b89e3a8b7571767897778026672f_big.jpg" group-title="原创IP", 飞碟说官方
 https://live.ottiptv.cc/douyu/1449125
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/0133868f5e574ccda0fdd93868d76724_big.jpg" group-title="原创IP", 恰饭橘
 https://live.ottiptv.cc/douyu/7974136
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/4e2558e0f0ba40149ebdce834d3a531b_big.jpg" group-title="一起看", 芒果酱Mangoo
 https://live.ottiptv.cc/douyu/138959
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 嘴巴鼻子没有沟
-https://live.ottiptv.cc/douyu/10217984
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202510/0fc33791534b4695b6aa7b0ef093d139_big.jpg" group-title="一起看", 壹丨哥
 https://live.ottiptv.cc/douyu/5692901
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/3c1ce21a9a544daea465d7cc4abdbf52_big.jpg" group-title="原创IP", 大漠叔叔Dm
@@ -301,42 +299,44 @@ https://live.ottiptv.cc/douyu/1109218
 https://live.ottiptv.cc/douyu/9837104
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6c29654abf4a41b6b97e76856c334e0f_big.jpg" group-title="原创IP", 篮球长镜头
 https://live.ottiptv.cc/douyu/9399887
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9a92ed30466244368e4a916429e69d89_big.jpg" group-title="原创IP", 九叔说电影v
-https://live.ottiptv.cc/douyu/9348282
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg" group-title="一起看", 爱吃萝卜的呆呆
 https://live.ottiptv.cc/douyu/4540290
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ca34592e6c69405f937e727ca0459f1e_big.jpg" group-title="原创IP", 开心嘴炮
-https://live.ottiptv.cc/douyu/9026377
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/7c4dfee8b32544418717c543f98d5c1f_big.jpg" group-title="原创IP", 龙馍馍UP
-https://live.ottiptv.cc/douyu/1717648
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/b9153f1b1ba048c5bf75cf8336389f3c_big.jpg" group-title="原创IP", 荒野有声书
-https://live.ottiptv.cc/douyu/10650322
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/991e97027f62448e98d15dd57319724f_big.jpg" group-title="原创IP", 培根悖论唠唠嗑
-https://live.ottiptv.cc/douyu/5354713
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/25/10/4e66057735396c71d33a9632f9232158_big.jpg" group-title="原创IP", 郑云工作室
-https://live.ottiptv.cc/douyu/2995636
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9a92ed30466244368e4a916429e69d89_big.jpg" group-title="原创IP", 九叔说电影v
+https://live.ottiptv.cc/douyu/9348282
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/55ebb2cb91d543b6935e9a4d15ad472b_big.jpg" group-title="原创IP", 阎君说剧
 https://live.ottiptv.cc/douyu/10475459
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c9de803e16f44eef99a05196f0a91c23_big.jpg" group-title="原创IP", 绘说篮球C
-https://live.ottiptv.cc/douyu/9401305
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/516d249e928d49f18a21886694f13b7c_big.jpg" group-title="原创IP", 老鱼说剧
-https://live.ottiptv.cc/douyu/9994377
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ca34592e6c69405f937e727ca0459f1e_big.jpg" group-title="原创IP", 开心嘴炮
+https://live.ottiptv.cc/douyu/9026377
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/2d8bf1a5134c414688b14f693b044f1b_big.jpg" group-title="原创IP", 林家渔妹
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/8cf198cc7a294ce3aae7e9e7e01f6420_big.jpg" group-title="原创IP", 菇菇说过
 https://live.ottiptv.cc/douyu/8788687
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/7c4dfee8b32544418717c543f98d5c1f_big.jpg" group-title="原创IP", 龙馍馍UP
+https://live.ottiptv.cc/douyu/1717648
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/25/10/4e66057735396c71d33a9632f9232158_big.jpg" group-title="原创IP", 郑云工作室
+https://live.ottiptv.cc/douyu/2995636
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/b9153f1b1ba048c5bf75cf8336389f3c_big.jpg" group-title="原创IP", 荒野有声书
+https://live.ottiptv.cc/douyu/10650322
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/991e97027f62448e98d15dd57319724f_big.jpg" group-title="原创IP", 培根悖论唠唠嗑
+https://live.ottiptv.cc/douyu/5354713
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/516d249e928d49f18a21886694f13b7c_big.jpg" group-title="原创IP", 老鱼说剧
+https://live.ottiptv.cc/douyu/9994377
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c9de803e16f44eef99a05196f0a91c23_big.jpg" group-title="原创IP", 绘说篮球C
+https://live.ottiptv.cc/douyu/9401305
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/23_big.jpg" group-title="原创IP", 小片片说大片二台
 https://live.ottiptv.cc/douyu/10011547
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/04/c5d8f47460b73e29df3e3c8090110e25_big.jpg" group-title="一起看", 巫妖王丶怀旧电视游戏
-https://live.ottiptv.cc/douyu/1023277
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/c6ecf57521904648a5b3a7d0445cc75d_big.jpg" group-title="原创IP", 纪录片之家字幕组
-https://live.ottiptv.cc/douyu/8834003
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b2eea687f56447a899d27bf8c0244a33_big.jpg" group-title="原创IP", 长片短解
-https://live.ottiptv.cc/douyu/9410946
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/0530d8b538f74741a96dbdf3914c36f9_big.jpg" group-title="原创IP", 篮球之家老李
-https://live.ottiptv.cc/douyu/9170147
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/831dac0d68004066a03dc02acbf80881_big.jpg" group-title="原创IP", 谁语说电影
 https://live.ottiptv.cc/douyu/8705754
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/04/c5d8f47460b73e29df3e3c8090110e25_big.jpg" group-title="一起看", 巫妖王丶怀旧电视游戏
+https://live.ottiptv.cc/douyu/1023277
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/e6a5f489b3544b40a21ce439fdfd03f6_big.jpg" group-title="原创IP", 暴走漫画
+https://live.ottiptv.cc/douyu/1275878
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b2eea687f56447a899d27bf8c0244a33_big.jpg" group-title="原创IP", 长片短解
+https://live.ottiptv.cc/douyu/9410946
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/c6ecf57521904648a5b3a7d0445cc75d_big.jpg" group-title="原创IP", 纪录片之家字幕组
+https://live.ottiptv.cc/douyu/8834003
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/0530d8b538f74741a96dbdf3914c36f9_big.jpg" group-title="原创IP", 篮球之家老李
+https://live.ottiptv.cc/douyu/9170147
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/f320b865ab0347689e9c16bee32f7a2d_big.jpg" group-title="原创IP", 9iota
 https://live.ottiptv.cc/douyu/8881729
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 洛克电影
@@ -347,8 +347,6 @@ https://live.ottiptv.cc/douyu/2039501
 https://live.ottiptv.cc/douyu/10282256
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/b03fb98d1552415da37d09bb53b46499_big.jpg" group-title="原创IP", 钓鱼欧尼AnglerJJung
 https://live.ottiptv.cc/douyu/10616765
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/e6a5f489b3544b40a21ce439fdfd03f6_big.jpg" group-title="原创IP", 暴走漫画
-https://live.ottiptv.cc/douyu/1275878
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/c96e471554994e03b8325910fcfc2063_big.jpg" group-title="原创IP", 夏利俊EWE路亚
 https://live.ottiptv.cc/douyu/9974427
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201806/8cc7925efa74cba80e217f748db4652c_big.jpg" group-title="原创IP", 电影刘油果
@@ -367,6 +365,8 @@ https://live.ottiptv.cc/douyu/10121755
 https://live.ottiptv.cc/douyu/8986636
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/de3639504b754fc6865825bd9e2b863e_big.jpg" group-title="原创IP", 周扒片
 https://live.ottiptv.cc/douyu/6434857
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/c3b8f2f80dfb4878b8a2bcfd1888bf58_big.jpg" group-title="一起看", 卿离倾心
+https://live.ottiptv.cc/douyu/7286439
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/8adfb07ffa8d4366947bd25a6db0ba2f_big.jpg" group-title="原创IP", 代娱说美剧
 https://live.ottiptv.cc/douyu/9123570
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/7ac6843729af4c7c98f3351764efbc73_big.jpg" group-title="原创IP", MordonFreeman是谁
@@ -379,8 +379,6 @@ https://live.ottiptv.cc/douyu/8706652
 https://live.ottiptv.cc/douyu/9736479
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/035fe7b9219c4232adf45c34bc9e8124_big.jpg" group-title="原创IP", 电影迷小雅
 https://live.ottiptv.cc/douyu/9639225
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/c3b8f2f80dfb4878b8a2bcfd1888bf58_big.jpg" group-title="一起看", 卿离倾心
-https://live.ottiptv.cc/douyu/7286439
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/c885b94dbad34c57997578f8918240c0_big.jpg" group-title="原创IP", 户外老曹
 https://live.ottiptv.cc/douyu/9957389
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/18/15/9a58c4abcec90b322060cddf81d53a68_big.jpg" group-title="原创IP", 胥渡吧直播号
@@ -405,6 +403,8 @@ https://live.ottiptv.cc/douyu/9075333
 https://live.ottiptv.cc/douyu/3637778
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/faa38cac4fdb4cf8a439bfeca5e37f36_big.jpg" group-title="原创IP", 侃片大师兄
 https://live.ottiptv.cc/douyu/9338839
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/25305116ae654fd885da4f2703dacbb2_big.jpg" group-title="原创IP", 拳叔二次元
+https://live.ottiptv.cc/douyu/9484105
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/86faf14bc9dd4521bae1fce8829f2eb0_big.jpg" group-title="原创IP", 漫威君
 https://live.ottiptv.cc/douyu/1713615
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/3a68b9f10b064c36a947f6dba4ea28e0_big.jpg" group-title="原创IP", 胶片看电影
@@ -417,12 +417,12 @@ https://live.ottiptv.cc/douyu/8695854
 https://live.ottiptv.cc/douyu/10103361
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/e778152db5ae46b8bf0c0b54bae5a1c5_big.jpg" group-title="一起看", 百晓生说剧
 https://live.ottiptv.cc/douyu/9649681
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/c6461b33ed2c48328e3d50a633a2d16f_big.jpg" group-title="一起看", Angela小兔
+https://live.ottiptv.cc/douyu/9617766
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/c918e30f8908417380233c5327f51c82_big.jpg" group-title="原创IP", 悬疑MOVIE
 https://live.ottiptv.cc/douyu/9601429
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/67425f9bd40943a7ba23cc7020eb5a20_big.jpg" group-title="一起看", dlwIrmaiu
 https://live.ottiptv.cc/douyu/11418803
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/25305116ae654fd885da4f2703dacbb2_big.jpg" group-title="原创IP", 拳叔二次元
-https://live.ottiptv.cc/douyu/9484105
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/4ca87a8c2c184fef911700aff5cf141d_big.jpg" group-title="原创IP", 农村一级野钓大师
 https://live.ottiptv.cc/douyu/9433591
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/0247d36d4906443aa350df74b60e4be0_big.jpg" group-title="一起看", 小童节
@@ -437,48 +437,46 @@ https://live.ottiptv.cc/douyu/10419558
 https://live.ottiptv.cc/douyu/3472959
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/73322f79a5564eb7830500faa4565e33_big.jpg" group-title="原创IP", KyoKyo不是QQ
 https://live.ottiptv.cc/douyu/4732337
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/c6461b33ed2c48328e3d50a633a2d16f_big.jpg" group-title="一起看", Angela小兔
-https://live.ottiptv.cc/douyu/9617766
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/71ae53c70e234dffa80f6ece3e98ae6b_big.jpg" group-title="原创IP", 芙芙家的洗碗君
-https://live.ottiptv.cc/douyu/9446706
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/33147cd948244f08badec04dee7d0598_big.jpg" group-title="原创IP", 睡丝虫
-https://live.ottiptv.cc/douyu/10308234
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/45fa7ec1b2e54e95b6a69e08dd6d9871_big.jpg" group-title="原创IP", 1900影剧室
-https://live.ottiptv.cc/douyu/7796193
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/ddba3d5ace034677be4efbac3f25d325_big.jpg" group-title="原创IP", 正宗吔汁吔树牌
-https://live.ottiptv.cc/douyu/10217953
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/03536dadc60441ea93c9ec5ccf515977_big.jpg" group-title="原创IP", 爱好恐怖片的美男子
-https://live.ottiptv.cc/douyu/9280384
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/3eef0e3013eb4825b05af45a99875fa7_big.jpg" group-title="原创IP", 芽老师最爱的小胖宝贝
 https://live.ottiptv.cc/douyu/238643
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/71ae53c70e234dffa80f6ece3e98ae6b_big.jpg" group-title="原创IP", 芙芙家的洗碗君
+https://live.ottiptv.cc/douyu/9446706
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/03536dadc60441ea93c9ec5ccf515977_big.jpg" group-title="原创IP", 爱好恐怖片的美男子
+https://live.ottiptv.cc/douyu/9280384
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/ddba3d5ace034677be4efbac3f25d325_big.jpg" group-title="原创IP", 正宗吔汁吔树牌
+https://live.ottiptv.cc/douyu/10217953
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/5c821aab8a6443f7a7721356f5cc3fff_big.jpg" group-title="原创IP", 蔡老板家的长工丶
+https://live.ottiptv.cc/douyu/8869614
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/52358eddeedd4b0abb86a073de1cf9e9_big.jpg" group-title="原创IP", 少打白骨精
+https://live.ottiptv.cc/douyu/11531165
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/06/17/ac89a278ab80b0042f0d1d99ba752f73_big.jpg" group-title="原创IP", 奥雷卡尔克斯
+https://live.ottiptv.cc/douyu/1224356
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/464c8cd0f9cb45a9b1ed2710e24bd981_big.jpg" group-title="原创IP", 万合鲜肉老师
 https://live.ottiptv.cc/douyu/9815091
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/197c22424ab34a7196139bf314b81304_big.jpg" group-title="原创IP", 热影连连看
+https://live.ottiptv.cc/douyu/9388931
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/0c9b9433229b436499de880ba01fb235_big.jpg" group-title="原创IP", 去种田的向凹凸
 https://live.ottiptv.cc/douyu/9570290
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/afb82df891974045a64eefab3c1f2771_big.jpg" group-title="原创IP", 书岳钓鱼
 https://live.ottiptv.cc/douyu/10100206
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202602/6d3fa472863c4aab8d313fc50c4f7983_big.jpg" group-title="原创IP", 一个机智张张
+https://live.ottiptv.cc/douyu/9653063
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/37a8f14c757440289c67f14874f59372_big.jpg" group-title="原创IP", 历史经典烩
 https://live.ottiptv.cc/douyu/9487003
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/e07416d29201477ab35d37ff122e28c1_big.jpg" group-title="原创IP", 热星音乐菌
 https://live.ottiptv.cc/douyu/8405922
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/45db47a8c16149ee8707ed2194b975f0_big.jpg" group-title="原创IP", MJ小林大人嗷
 https://live.ottiptv.cc/douyu/9204381
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/5c821aab8a6443f7a7721356f5cc3fff_big.jpg" group-title="原创IP", 蔡老板家的长工丶
-https://live.ottiptv.cc/douyu/8869614
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/06/17/ac89a278ab80b0042f0d1d99ba752f73_big.jpg" group-title="原创IP", 奥雷卡尔克斯
-https://live.ottiptv.cc/douyu/1224356
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/197c22424ab34a7196139bf314b81304_big.jpg" group-title="原创IP", 热影连连看
-https://live.ottiptv.cc/douyu/9388931
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/52358eddeedd4b0abb86a073de1cf9e9_big.jpg" group-title="原创IP", 少打白骨精
-https://live.ottiptv.cc/douyu/11531165
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/33147cd948244f08badec04dee7d0598_big.jpg" group-title="原创IP", 睡丝虫
+https://live.ottiptv.cc/douyu/10308234
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/11c28b16d22744c5b85e2171d02d9b41_big.jpg" group-title="原创IP", 3030相声小品
 https://live.ottiptv.cc/douyu/9286868
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201908/10fe026c1c104a0c9900278e51a02ad9_big.jpg" group-title="一起看", 火星法拉利
 https://live.ottiptv.cc/douyu/7360064
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/45fa7ec1b2e54e95b6a69e08dd6d9871_big.jpg" group-title="原创IP", 1900影剧室
+https://live.ottiptv.cc/douyu/7796193
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4f74797c884b428888d1133256c84f28_big.jpg" group-title="原创IP", 小三笠笠酱
 https://live.ottiptv.cc/douyu/9188696
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202602/6d3fa472863c4aab8d313fc50c4f7983_big.jpg" group-title="原创IP", 一个机智张张
-https://live.ottiptv.cc/douyu/9653063
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/d188025b789841219bb8bb5e8a0599a3_big.jpg" group-title="原创IP", 朱一旦的枯燥生活v
 https://live.ottiptv.cc/douyu/7907979
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/49ca6755bf4b428fb5b571e7240933ed_big.jpg" group-title="原创IP", 工藤新医heart
@@ -487,14 +485,14 @@ https://live.ottiptv.cc/douyu/8741860
 https://live.ottiptv.cc/douyu/9191790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/e8ebbdf80dd048439bf63bf41761301f_big.jpg" group-title="原创IP", 南国小豆豆
 https://live.ottiptv.cc/douyu/3310454
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/93f5c9986a2840c9b4866ddb937700e6_big.jpg" group-title="一起看", 你的你的啊啊啊
-https://live.ottiptv.cc/douyu/10252378
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/34d586eaf0c74d818443ae2c0f42880e_big.jpg" group-title="原创IP", 老秦说秦
 https://live.ottiptv.cc/douyu/9650131
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/e53998f87f0545fa9dc55f1ce1903176_big.jpg" group-title="原创IP", 花花与三猫CatLive
-https://live.ottiptv.cc/douyu/7348194
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/e6155c701299482c8db5a87de01d5705_big.jpg" group-title="一起看", 周星驰的直播间
 https://live.ottiptv.cc/douyu/8257039
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/e53998f87f0545fa9dc55f1ce1903176_big.jpg" group-title="原创IP", 花花与三猫CatLive
+https://live.ottiptv.cc/douyu/7348194
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/c98bc36a2a234acc8e7d14511365d622_big.jpg" group-title="原创IP", 小艾大叔
+https://live.ottiptv.cc/douyu/9314668
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/577e2268cde34409bfd4c728a08d48dd_big.jpg" group-title="原创IP", 贝爷求生影视
 https://live.ottiptv.cc/douyu/9661369
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/ab177314d4fd429e93bf35fd41dea03d_big.jpg" group-title="原创IP", 刘哔电影
@@ -503,102 +501,110 @@ https://live.ottiptv.cc/douyu/2632223
 https://live.ottiptv.cc/douyu/2912165
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="原创IP", 龙视欢乐英雄转
 https://live.ottiptv.cc/douyu/9374836
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/c529281d53624b14a1c49740eddb36b1_big.jpg" group-title="原创IP", 荒野伊甸园
-https://live.ottiptv.cc/douyu/9611578
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/7ddd47c929294620a23c38d946d064e4_big.jpg" group-title="原创IP", 史君观影
 https://live.ottiptv.cc/douyu/9644669
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/60ae863333dc48d58f1782ce9622e137_big.jpg" group-title="原创IP", 猛禽西伯利亚白猿
-https://live.ottiptv.cc/douyu/10074407
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 强人说笑
-https://live.ottiptv.cc/douyu/10329713
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/ccf8919b643448eda87dac3e460f794c_big.jpg" group-title="原创IP", 一目十影
 https://live.ottiptv.cc/douyu/3643605
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/10_big.jpg" group-title="原创IP", 鄂东老男孩
-https://live.ottiptv.cc/douyu/8837707
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/4fc8207d9055426089292caabdddfa6b_big.jpg" group-title="一起看", 爱唱跳Rap的胖虎
-https://live.ottiptv.cc/douyu/5895598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/93fe4e12db2d4726a1af6f699c2ceced_big.jpg" group-title="原创IP", 已知艺术家漫画解说
 https://live.ottiptv.cc/douyu/5907076
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/c98bc36a2a234acc8e7d14511365d622_big.jpg" group-title="原创IP", 小艾大叔
-https://live.ottiptv.cc/douyu/9314668
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/444b67f3241c4755a37503b19a6e4a86_big.jpg" group-title="原创IP", 爱旅行的巧克力
 https://live.ottiptv.cc/douyu/9653323
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/092b8cedb6d95288d834e2061c77114e_big.jpg" group-title="原创IP", 我叫萌迪迪V
+https://live.ottiptv.cc/douyu/5354705
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/54e29f3130464ebfbef549e82674b36d_big.jpg" group-title="原创IP", 植物椿de房间
 https://live.ottiptv.cc/douyu/9771247
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/40ca1cc17ef84d4a976af034a62d5e01_big.jpg" group-title="原创IP", 悉奇
+https://live.ottiptv.cc/douyu/9401473
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1c6390a7bbae4232bc661078ac6ed310_big.jpg" group-title="原创IP", 勤时铭悦
 https://live.ottiptv.cc/douyu/8790357
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201606/02/83dadf1e737f469ca248bee208d4db2f_big.jpg" group-title="原创IP", 流浪吧王温暖
 https://live.ottiptv.cc/douyu/655973
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/40ca1cc17ef84d4a976af034a62d5e01_big.jpg" group-title="原创IP", 悉奇
-https://live.ottiptv.cc/douyu/9401473
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/a868411549dc483b8a484c07442e72ed_big.jpg" group-title="一起看", 半打星冰乐
+https://live.ottiptv.cc/douyu/7481383
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/c529281d53624b14a1c49740eddb36b1_big.jpg" group-title="原创IP", 荒野伊甸园
+https://live.ottiptv.cc/douyu/9611578
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/45ed75b33f754935b095fe6c192326af_big.jpg" group-title="原创IP", 龙楼宝殿
 https://live.ottiptv.cc/douyu/7422897
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/77f613dec1f247a899a60d5a0d212f20_big.jpg" group-title="原创IP", 萌宠妙妙屋
 https://live.ottiptv.cc/douyu/8653533
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/e8b5ce111a2e4fe2ac7a0fc69d9ea255_big.jpg" group-title="原创IP", 鬼兄奇谈
 https://live.ottiptv.cc/douyu/8722254
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/8beda787e7694790bf9f5f22ad7bb13e_big.jpg" group-title="一起看", 海狸呐
-https://live.ottiptv.cc/douyu/5841922
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/97d98ce41d9c44d695869993317f5f24_big.jpg" group-title="原创IP", 俗哥看电影
-https://live.ottiptv.cc/douyu/2161818
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/f65fe8c27e8f4b74a9d546d9550f8358_big.jpg" group-title="原创IP", JustXiaIt嘻咦啊看
 https://live.ottiptv.cc/douyu/2660125
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/68c364377dba406bafbc29acfa0244e0_big.jpg" group-title="原创IP", 一条闲木鱼
+https://live.ottiptv.cc/douyu/10102281
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/8beda787e7694790bf9f5f22ad7bb13e_big.jpg" group-title="一起看", 海狸呐
+https://live.ottiptv.cc/douyu/5841922
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/17ee0e4f3e7e41d390970a0b9a9a99f9_big.jpg" group-title="原创IP", 三七电影V
 https://live.ottiptv.cc/douyu/9457792
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/c110c50a13454ef5801d2281d5706eed_big.jpg" group-title="原创IP", 小涛讲电影V
-https://live.ottiptv.cc/douyu/8415464
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bd897f89f19243ff8075c18a5d644b68_big.jpg" group-title="原创IP", 28岁电影
-https://live.ottiptv.cc/douyu/8884164
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/a6467d5edc9445c2887806ba1cd532f4_big.jpg" group-title="原创IP", 宇宙视界
+https://live.ottiptv.cc/douyu/9498354
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 强人说笑
+https://live.ottiptv.cc/douyu/10329713
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/97d98ce41d9c44d695869993317f5f24_big.jpg" group-title="原创IP", 俗哥看电影
+https://live.ottiptv.cc/douyu/2161818
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/fe1dbb8896c84281a61176d9975e5785_big.jpg" group-title="原创IP", 老邪说电影
+https://live.ottiptv.cc/douyu/9222870
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/4fc8207d9055426089292caabdddfa6b_big.jpg" group-title="一起看", 爱唱跳Rap的胖虎
+https://live.ottiptv.cc/douyu/5895598
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/4ce6f361eb76420babd4400632de99e9_big.jpg" group-title="原创IP", 猫猫村长
+https://live.ottiptv.cc/douyu/4716
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/b765b00330a343c8bbe07941028abf71_big.jpg" group-title="一起看", Biu餐厅主管
 https://live.ottiptv.cc/douyu/7921708
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/810c6c7b1c9c4f53ac546835baf466f9_big.jpg" group-title="原创IP", 五分钟电影汇
 https://live.ottiptv.cc/douyu/8443438
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202603/73eb498e09394c35a452bcb010e1ce5a_big.jpg" group-title="一起看", 本号唯一
 https://live.ottiptv.cc/douyu/12815389
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bd897f89f19243ff8075c18a5d644b68_big.jpg" group-title="原创IP", 28岁电影
+https://live.ottiptv.cc/douyu/8884164
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/d5faa59d9d21441ba70d2bcbc5c19b78_big.jpg" group-title="一起看", 安安601801
+https://live.ottiptv.cc/douyu/11283504
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5c039fad99ee41068a77fa8ec984efb7_big.jpg" group-title="原创IP", 77说电影
 https://live.ottiptv.cc/douyu/9444320
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/19_big.jpg" group-title="原创IP", 爆笑行为大赏
+https://live.ottiptv.cc/douyu/10329767
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/a070133817c746609848d0396d1d4799_big.jpg" group-title="原创IP", 松轩说电影
 https://live.ottiptv.cc/douyu/1524969
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/372a7e3de4204501ba4abd296b41c71f_big.jpg" group-title="原创IP", 看电影了没V
 https://live.ottiptv.cc/douyu/9562616
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/28/11/93c5f6cc787f56fbb12dae062f5727ee_big.jpg" group-title="原创IP", 独立鱼电影
 https://live.ottiptv.cc/douyu/2413555
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/60ae863333dc48d58f1782ce9622e137_big.jpg" group-title="原创IP", 猛禽西伯利亚白猿
+https://live.ottiptv.cc/douyu/10074407
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/6955c5876de241d09791fbb28bb109b2_big.jpg" group-title="一起看", 善逸丶
 https://live.ottiptv.cc/douyu/2067020
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/44cace4585a94457bf88138c6274ccb7_big.jpg" group-title="原创IP", 小司马说剧
+https://live.ottiptv.cc/douyu/9660127
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/05/05/667df3b7d2a6e23b7519c33480b0d969_big.jpg" group-title="一起看", bestthings丶放假
 https://live.ottiptv.cc/douyu/11752532
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202507/9c33a8154192466d995ac0c2653b2cad_big.jpg" group-title="原创IP", 哇萨比抓马WD
 https://live.ottiptv.cc/douyu/8808506
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/092b8cedb6d95288d834e2061c77114e_big.jpg" group-title="原创IP", 我叫萌迪迪V
-https://live.ottiptv.cc/douyu/5354705
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/a6467d5edc9445c2887806ba1cd532f4_big.jpg" group-title="原创IP", 宇宙视界
-https://live.ottiptv.cc/douyu/9498354
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/4ce6f361eb76420babd4400632de99e9_big.jpg" group-title="原创IP", 猫猫村长
-https://live.ottiptv.cc/douyu/4716
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/10_big.jpg" group-title="原创IP", 鄂东老男孩
+https://live.ottiptv.cc/douyu/8837707
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/07/17/8cdc453a37d1235bc391b5815fb7e03c_big.jpg" group-title="原创IP", 粤知一二
+https://live.ottiptv.cc/douyu/2940299
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/7872480adf304698858434f0a9ea6752_big.jpg" group-title="原创IP", 竹公子有礼了
+https://live.ottiptv.cc/douyu/8887432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ad9063b6bfd341f88e05be4a57a5682b_big.jpg" group-title="一起看", 你真像个小丑
 https://live.ottiptv.cc/douyu/10730187
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/a868411549dc483b8a484c07442e72ed_big.jpg" group-title="一起看", 半打星冰乐
-https://live.ottiptv.cc/douyu/7481383
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/61787c6f71ee4149bce657aca783e889_big.jpg" group-title="一起看", 小兰酱177
 https://live.ottiptv.cc/douyu/11490031
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/44cace4585a94457bf88138c6274ccb7_big.jpg" group-title="原创IP", 小司马说剧
-https://live.ottiptv.cc/douyu/9660127
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/023/27/60/23_avatar_big.jpg" group-title="一起看", Cloud猪
+https://live.ottiptv.cc/douyu/527502
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/08112cb19406446591ec4d7c2b47906a_big.jpg" group-title="原创IP", 阿福ThomasV
 https://live.ottiptv.cc/douyu/9194089
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/07_big.jpg" group-title="原创IP", 草泥泥影院
-https://live.ottiptv.cc/douyu/9091049
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/fe1dbb8896c84281a61176d9975e5785_big.jpg" group-title="原创IP", 老邪说电影
-https://live.ottiptv.cc/douyu/9222870
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/72cc69942b2c4d0791d2ab5b93b69923_big.jpg" group-title="原创IP", 竹内亮导演
+https://live.ottiptv.cc/douyu/8933612
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/13_big.jpg" group-title="原创IP", 影视集装箱
 https://live.ottiptv.cc/douyu/8651489
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/3bc8d38e162d4c679e153428e78ef771_big.jpg" group-title="原创IP", 小青放映社
+https://live.ottiptv.cc/douyu/9314689
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/8e5b5d2701714acabc4591751a63cfa9_big.jpg" group-title="一起看", 静静给你糖
 https://live.ottiptv.cc/douyu/11752454
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/68c364377dba406bafbc29acfa0244e0_big.jpg" group-title="原创IP", 一条闲木鱼
-https://live.ottiptv.cc/douyu/10102281
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/c110c50a13454ef5801d2281d5706eed_big.jpg" group-title="原创IP", 小涛讲电影V
+https://live.ottiptv.cc/douyu/8415464
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/211a5b6db65740e4b43ce35555e6456e_big.jpg" group-title="一起看", AAPLEDOG
 https://live.ottiptv.cc/douyu/5133586
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/19_big.jpg" group-title="原创IP", 爆笑行为大赏
-https://live.ottiptv.cc/douyu/10329767
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/f70a86d2e0084fd5968d7f1820102c3e_big.jpg" group-title="原创IP", 百万巨星麒麟君
 https://live.ottiptv.cc/douyu/3431701
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/10094121aa3f4a79bd9b5af64bb17233_big.jpg" group-title="原创IP", 铁血影视汇
@@ -609,60 +615,68 @@ https://live.ottiptv.cc/douyu/9627172
 https://live.ottiptv.cc/douyu/8413092
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/024/22/54/71_avatar_big.jpg" group-title="原创IP", a5dmin
 https://live.ottiptv.cc/douyu/1102973
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/d8ad9c24c9ae4509b4aa263c197e7353_big.jpg" group-title="原创IP", 戴萌兔
+https://live.ottiptv.cc/douyu/9522315
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201610/26/16/c10d88f7afbea0fcda3fb75cf5424a9f_big.jpg" group-title="原创IP", 酷酷的滕
 https://live.ottiptv.cc/douyu/1286383
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/21_big.jpg" group-title="一起看", 九颗鸭梨
 https://live.ottiptv.cc/douyu/12065801
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/09/10/4e51d8b9c068fa378b852552e5ef2840_big.jpg" group-title="原创IP", 宇宙无敌韩三金
 https://live.ottiptv.cc/douyu/3194372
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/d8ad9c24c9ae4509b4aa263c197e7353_big.jpg" group-title="原创IP", 戴萌兔
-https://live.ottiptv.cc/douyu/9522315
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/00a120e17cf04c5b8f3886d85aafd0d7_big.jpg" group-title="一起看", 罗先生699
 https://live.ottiptv.cc/douyu/12065805
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/a466c47344b747ab8f7861768a509b69_big.jpg" group-title="原创IP", 电影七十二变
+https://live.ottiptv.cc/douyu/9323164
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/851e02de16ab43efb722e5d30eaf635a_big.jpg" group-title="原创IP", 勇敢的荒野人
 https://live.ottiptv.cc/douyu/9618038
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/7884468862e7448188a9064b36329db7_big.jpg" group-title="原创IP", 奇趣研究
 https://live.ottiptv.cc/douyu/8661456
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/036c301acc7e46acb8ddba5686ff052a_big.jpg" group-title="原创IP", 流心影者
 https://live.ottiptv.cc/douyu/9447717
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/d5faa59d9d21441ba70d2bcbc5c19b78_big.jpg" group-title="一起看", 安安601801
-https://live.ottiptv.cc/douyu/11283504
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/62a76978a86c4b629b2413b7729dd5d7_big.jpg" group-title="一起看", 湖南花戏
 https://live.ottiptv.cc/douyu/12091975
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/2a0c591b2a9e4ddfb6251b670aa9690e_big.jpg" group-title="原创IP", 罗叔说戏
 https://live.ottiptv.cc/douyu/9788756
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/7872480adf304698858434f0a9ea6752_big.jpg" group-title="原创IP", 竹公子有礼了
-https://live.ottiptv.cc/douyu/8887432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg" group-title="一起看", 在回忆中寻找
 https://live.ottiptv.cc/douyu/12065601
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/5707493bf0d74d39b1f52b284335a305_big.jpg" group-title="原创IP", 齐司礼
 https://live.ottiptv.cc/douyu/9481340
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/82d5c9f3e08049ad9551176bff2389d8_big.jpg" group-title="一起看", 天才大熊猫啊
+https://live.ottiptv.cc/douyu/10646699
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/59fa6f9be088478d995459690cf306f8_big.jpg" group-title="原创IP", 来呀官人V
 https://live.ottiptv.cc/douyu/9986305
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202210/efc578050c6b4a949fb16b2ff185377b_big.jpg" group-title="原创IP", 小木鱼de妈妈
 https://live.ottiptv.cc/douyu/11199147
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f07bc729e4e2405caf4fabd9202d220a_big.jpg" group-title="原创IP", 小马哥说电影
-https://live.ottiptv.cc/douyu/9396672
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/15945f9e65ae4596be17d0fd049e5c0f_big.jpg" group-title="原创IP", 大坑侦探社
+https://live.ottiptv.cc/douyu/9440339
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/db77a498f946444483fa2243baa36eb9_big.jpg" group-title="原创IP", 爱爱小s
+https://live.ottiptv.cc/douyu/10308312
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/884e6266b2744e688abb372f9230bb0b_big.jpg" group-title="原创IP", 伯乐说电影V
+https://live.ottiptv.cc/douyu/9386057
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/924e87bd258241ec8104ffe3beae99e0_big.jpg" group-title="一起看", 饥饿的饭桶
+https://live.ottiptv.cc/douyu/5018900
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/080a7f79b992414eb37a3b5e06f4a99f_big.jpg" group-title="原创IP", 北京大妈有话说er
 https://live.ottiptv.cc/douyu/9440530
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/b4bcf6763d0b4b07a94c4562cde9e497_big.jpg" group-title="原创IP", 逗米说电影
 https://live.ottiptv.cc/douyu/421222
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 内蒙古欢乐驿站
-https://live.ottiptv.cc/douyu/9365077
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/c8e0053bc1c74e14b4decb831b2681ef_big.jpg" group-title="原创IP", 民工小代
 https://live.ottiptv.cc/douyu/9616619
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/82d5c9f3e08049ad9551176bff2389d8_big.jpg" group-title="一起看", 天才大熊猫啊
-https://live.ottiptv.cc/douyu/10646699
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/28fb1250778247c78fd4014f788656b7_big.jpg" group-title="原创IP", 圈踢动漫
+https://live.ottiptv.cc/douyu/1952680
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/d969891488f244a6959fe8a4fb2584cf_big.jpg" group-title="原创IP", 我是一只西瓜啊
 https://live.ottiptv.cc/douyu/9065082
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/19f08ff19c4e4ccd965079b46e4f193a_big.jpg" group-title="原创IP", 小陶气说动漫
 https://live.ottiptv.cc/douyu/9527700
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/28fb1250778247c78fd4014f788656b7_big.jpg" group-title="原创IP", 圈踢动漫
-https://live.ottiptv.cc/douyu/1952680
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/09/15/d8d54f065e236761001792866919a5f2_big.jpg" group-title="原创IP", 柳青瑶本尊
 https://live.ottiptv.cc/douyu/2281324
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6f10533711ed4516b00561d3e60f35c6_big.jpg" group-title="原创IP", 岚FLL
+https://live.ottiptv.cc/douyu/9409703
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f07bc729e4e2405caf4fabd9202d220a_big.jpg" group-title="原创IP", 小马哥说电影
+https://live.ottiptv.cc/douyu/9396672
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/52f2fe58ec344b4baa0936c9cde65ac5_big.jpg" group-title="原创IP", 二胖影视
 https://live.ottiptv.cc/douyu/10064260
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/17/18/c75d4efba1757f2de5400a2d24fb4e94_big.jpg" group-title="原创IP", 大荒电影
+https://live.ottiptv.cc/douyu/3508538
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/a311ca1d74404a4dae76a16b4be6caf6_big.jpg" group-title="原创IP", 尉迟杰影评
 https://live.ottiptv.cc/douyu/8850682
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/b18b63ca73224dd8919bc6a58c7c9ef1_big.jpg" group-title="原创IP", 阿苏电影
@@ -671,62 +685,42 @@ https://live.ottiptv.cc/douyu/9037784
 https://live.ottiptv.cc/douyu/10039437
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/7a943d6911f84126924d1c13ac2ec050_big.jpg" group-title="原创IP", 麻雀喳喳野行记
 https://live.ottiptv.cc/douyu/10088966
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/ce13883f1ee44e52a4c146131766ccb3_big.jpg" group-title="原创IP", 我为奥迪上黄金
-https://live.ottiptv.cc/douyu/9336286
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/a469ba709c8a4a3bbff27d292fe3ac74_big.jpg" group-title="原创IP", 纳豆奶奶666
-https://live.ottiptv.cc/douyu/8745628
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/db77a498f946444483fa2243baa36eb9_big.jpg" group-title="原创IP", 爱爱小s
-https://live.ottiptv.cc/douyu/10308312
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/c94c5298b27542c887a4ff14f6d9cc73_big.jpg" group-title="原创IP", 动画大师姐
-https://live.ottiptv.cc/douyu/9742136
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/72cc69942b2c4d0791d2ab5b93b69923_big.jpg" group-title="原创IP", 竹内亮导演
-https://live.ottiptv.cc/douyu/8933612
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/07/17/8cdc453a37d1235bc391b5815fb7e03c_big.jpg" group-title="原创IP", 粤知一二
-https://live.ottiptv.cc/douyu/2940299
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 龙视超级笑匠
-https://live.ottiptv.cc/douyu/9375450
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/ea8c75324f2d44e3baa1d530eb8f7d9d_big.jpg" group-title="原创IP", 小猪优版剧院
-https://live.ottiptv.cc/douyu/10297898
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/9437f8b1623f4607806235da45be697b_big.jpg" group-title="原创IP", 科幻战舰
-https://live.ottiptv.cc/douyu/8772060
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/013/17/62/49_avatar_big.jpg" group-title="原创IP", 猪肉熟了
-https://live.ottiptv.cc/douyu/296836
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/fa62df02c237490889fc3891bb74a679_big.jpg" group-title="原创IP", 楚哥说电影
-https://live.ottiptv.cc/douyu/9375743
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/1780b481436a4e0da04a1acf1943ff38_big.jpg" group-title="原创IP", 果冻萌萌的丶
 https://live.ottiptv.cc/douyu/9607934
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/ed08709c31d84d5285c59ed18474f180_big.jpg" group-title="原创IP", 大蓝雀
-https://live.ottiptv.cc/douyu/8656759
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6f10533711ed4516b00561d3e60f35c6_big.jpg" group-title="原创IP", 岚FLL
-https://live.ottiptv.cc/douyu/9409703
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/1f4622dc13c5468bbf1ae29fdb2655e6_big.jpg" group-title="原创IP", 荒野避难所
-https://live.ottiptv.cc/douyu/10234334
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/17/18/c75d4efba1757f2de5400a2d24fb4e94_big.jpg" group-title="原创IP", 大荒电影
-https://live.ottiptv.cc/douyu/3508538
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/000/01/09/68_avatar_big.jpg" group-title="原创IP", 绿阿掌
-https://live.ottiptv.cc/douyu/2365
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/5f0cd1d4fec84ee0aa1f0b9520744aa1_big.jpg" group-title="原创IP", 渔农泰叔
-https://live.ottiptv.cc/douyu/9348784
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/884e6266b2744e688abb372f9230bb0b_big.jpg" group-title="原创IP", 伯乐说电影V
-https://live.ottiptv.cc/douyu/9386057
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201606/17/7ddff7b37e79dcffd9a99f95e9229c29_big.jpg" group-title="一起看", 旧梦随人心
-https://live.ottiptv.cc/douyu/692533
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/023/27/60/23_avatar_big.jpg" group-title="一起看", Cloud猪
-https://live.ottiptv.cc/douyu/527502
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/cf34bc6315cc4c6b91533c10af270efc_big.jpg" group-title="原创IP", 大狼狗刨祖坟
-https://live.ottiptv.cc/douyu/10217975
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/a469ba709c8a4a3bbff27d292fe3ac74_big.jpg" group-title="原创IP", 纳豆奶奶666
+https://live.ottiptv.cc/douyu/8745628
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/c94c5298b27542c887a4ff14f6d9cc73_big.jpg" group-title="原创IP", 动画大师姐
+https://live.ottiptv.cc/douyu/9742136
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/977f430edf5d0297d374b1cd207a7847_big.jpg" group-title="一起看", 咸鱼翻身是另一面咸鱼
 https://live.ottiptv.cc/douyu/527076
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/3712e120be174bd19e527d393a687d94_big.jpg" group-title="原创IP", 荒野万池王
-https://live.ottiptv.cc/douyu/9544576
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/3bc8d38e162d4c679e153428e78ef771_big.jpg" group-title="原创IP", 小青放映社
-https://live.ottiptv.cc/douyu/9314689
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 影视英雄汇
+https://live.ottiptv.cc/douyu/10240495
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/ea8c75324f2d44e3baa1d530eb8f7d9d_big.jpg" group-title="原创IP", 小猪优版剧院
+https://live.ottiptv.cc/douyu/10297898
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 内蒙古欢乐驿站
+https://live.ottiptv.cc/douyu/9365077
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/9437f8b1623f4607806235da45be697b_big.jpg" group-title="原创IP", 科幻战舰
+https://live.ottiptv.cc/douyu/8772060
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/fa62df02c237490889fc3891bb74a679_big.jpg" group-title="原创IP", 楚哥说电影
+https://live.ottiptv.cc/douyu/9375743
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/ed08709c31d84d5285c59ed18474f180_big.jpg" group-title="原创IP", 大蓝雀
+https://live.ottiptv.cc/douyu/8656759
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/1f4622dc13c5468bbf1ae29fdb2655e6_big.jpg" group-title="原创IP", 荒野避难所
+https://live.ottiptv.cc/douyu/10234334
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/000/01/09/68_avatar_big.jpg" group-title="原创IP", 绿阿掌
+https://live.ottiptv.cc/douyu/2365
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/ce13883f1ee44e52a4c146131766ccb3_big.jpg" group-title="原创IP", 我为奥迪上黄金
+https://live.ottiptv.cc/douyu/9336286
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201606/17/7ddff7b37e79dcffd9a99f95e9229c29_big.jpg" group-title="一起看", 旧梦随人心
+https://live.ottiptv.cc/douyu/692533
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/cf34bc6315cc4c6b91533c10af270efc_big.jpg" group-title="原创IP", 大狼狗刨祖坟
+https://live.ottiptv.cc/douyu/10217975
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/5f0cd1d4fec84ee0aa1f0b9520744aa1_big.jpg" group-title="原创IP", 渔农泰叔
+https://live.ottiptv.cc/douyu/9348784
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/434f0b27ce804121a15a4f806cbe4664_big.jpg" group-title="一起看", 大米饭影视
 https://live.ottiptv.cc/douyu/9824094
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/eee1a6ade0d9451d86a0ca40a7942d5d_big.jpg" group-title="原创IP", 神羊说电影
 https://live.ottiptv.cc/douyu/9443552
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/fbfe8e4db1834e33aab342addb357769_big.jpg" group-title="原创IP", 哈利影视
-https://live.ottiptv.cc/douyu/8475821
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/6d3775cea89145fc8fd38373a2640df3_big.jpg" group-title="原创IP", 不二真探
 https://live.ottiptv.cc/douyu/10319545
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f940cc1e2120434da9ea9e6e44aaa297_big.jpg" group-title="原创IP", 经典拳赛
@@ -735,10 +729,12 @@ https://live.ottiptv.cc/douyu/9412138
 https://live.ottiptv.cc/douyu/10308242
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/e0928c517c3042089568694612deede3_big.jpg" group-title="原创IP", 听wo姐说
 https://live.ottiptv.cc/douyu/8830082
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/15945f9e65ae4596be17d0fd049e5c0f_big.jpg" group-title="原创IP", 大坑侦探社
-https://live.ottiptv.cc/douyu/9440339
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/013/17/62/49_avatar_big.jpg" group-title="原创IP", 猪肉熟了
+https://live.ottiptv.cc/douyu/296836
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a2234d0f5d7a489497779582283a5fb5_big.jpg" group-title="原创IP", 鹏友说电影
 https://live.ottiptv.cc/douyu/9445244
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/8de0e3eb8e0c435bb9c60674665479af_big.jpg" group-title="原创IP", 我叫孙火旺
+https://live.ottiptv.cc/douyu/9770949
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5d23fa91ffb043c58c79e6973e3c77ce_big.jpg" group-title="原创IP", 小小鹿老师
 https://live.ottiptv.cc/douyu/9442889
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/597d461224de4c1496f037cca3963a1f_big.jpg" group-title="原创IP", 每日好电影V
@@ -755,36 +751,42 @@ https://live.ottiptv.cc/douyu/9942574
 https://live.ottiptv.cc/douyu/9720498
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/88902b16c469402f90033e4abe98ee6e_big.jpg" group-title="原创IP", 八月看大片
 https://live.ottiptv.cc/douyu/8816671
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/b138b678b354eda98fa065a27093d9a1_big.jpg" group-title="原创IP", 追寻那解不开的问题
-https://live.ottiptv.cc/douyu/5727066
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/68f447ac631849928053f6b1d8a79304_big.jpg" group-title="原创IP", 我是吃泡面看电影
-https://live.ottiptv.cc/douyu/8851063
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/0afd701e55d5441e87dcd73afbe13a30_big.jpg" group-title="原创IP", 末日说电影
+https://live.ottiptv.cc/douyu/9431125
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/5467d09e6cd44b2a8f81271b178725bb_big.jpg" group-title="原创IP", 天堂电影1895
 https://live.ottiptv.cc/douyu/9573592
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/aaf3cca557b34a869afae4c0f9f41df4_big.jpg" group-title="原创IP", 日本女子摔角
 https://live.ottiptv.cc/douyu/425809
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/11032a1fa5e74c679b84dcb5df44d818_big.jpg" group-title="一起看", 昆特牌之大哥食正野
 https://live.ottiptv.cc/douyu/7919720
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/6b836b67e0e8428dbe583c0f5a3e45a8_big.jpg" group-title="原创IP", 贰哥电影
-https://live.ottiptv.cc/douyu/9338867
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/4a61dd0a0aa84ff1abcde240e83b673c_big.jpg" group-title="原创IP", 小侠来了
 https://live.ottiptv.cc/douyu/9734042
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/436d106d053b452da65bb1d0e1df96c9_big.jpg" group-title="原创IP", 喜人电影
 https://live.ottiptv.cc/douyu/10348735
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 龙视超级笑匠
+https://live.ottiptv.cc/douyu/9375450
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202306/0b3868dfec7e4958adbbca73c3336225_big.jpg" group-title="原创IP", OE档案
 https://live.ottiptv.cc/douyu/6725858
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/5632d3c5d19c4c82890c4be886dd684c_big.jpg" group-title="原创IP", 小儛电影嘚啵嘚
 https://live.ottiptv.cc/douyu/8362978
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/0afd701e55d5441e87dcd73afbe13a30_big.jpg" group-title="原创IP", 末日说电影
-https://live.ottiptv.cc/douyu/9431125
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/99c9757ff46c42ee97fe02a9006626cb_big.jpg" group-title="原创IP", 山里记
+https://live.ottiptv.cc/douyu/9410236
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/fbfe8e4db1834e33aab342addb357769_big.jpg" group-title="原创IP", 哈利影视
+https://live.ottiptv.cc/douyu/8475821
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/5db8a6dc519947ee8e23af1f994c7348_big.jpg" group-title="原创IP", 求求扣扣困困
 https://live.ottiptv.cc/douyu/8795274
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/07_big.jpg" group-title="原创IP", 草泥泥影院
+https://live.ottiptv.cc/douyu/9091049
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/43312b75a3254a449e2f7fd26dd0f76f_big.jpg" group-title="原创IP", 奇怪电影
 https://live.ottiptv.cc/douyu/9440966
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/ad089faa82fb4e6e87118b2d29ed17ef_big.jpg" group-title="一起看", 逐梦电影
 https://live.ottiptv.cc/douyu/4058285
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4e17e5cc984043f3aa65fe9ac4355f4f_big.jpg" group-title="原创IP", 爱星影视
+https://live.ottiptv.cc/douyu/9476806
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a0d485ccb5e641448f85b47320bd430c_big.jpg" group-title="原创IP", 科学放映室
 https://live.ottiptv.cc/douyu/9439712
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/12/87bbb595c8994f98df0f307aacccf94a_big.jpg" group-title="原创IP", 老人家小熊猫君
+https://live.ottiptv.cc/douyu/753342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/df97190e2eac494d91d80367020a308a_big.jpg" group-title="原创IP", 民间高手show
 https://live.ottiptv.cc/douyu/10372765
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/c735a4da6ecc4a709423b565142ca0e7_big.jpg" group-title="一起看", 搞笑天堂岛
@@ -793,10 +795,14 @@ https://live.ottiptv.cc/douyu/6916081
 https://live.ottiptv.cc/douyu/8611011
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/c880595462b5471ba4286fb6f67086aa_big.jpg" group-title="原创IP", 维立方电影
 https://live.ottiptv.cc/douyu/8706393
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/68f447ac631849928053f6b1d8a79304_big.jpg" group-title="原创IP", 我是吃泡面看电影
+https://live.ottiptv.cc/douyu/8851063
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/ce4e744c0b9b412b89e8e5165e723f02_big.jpg" group-title="原创IP", 电影笔记
 https://live.ottiptv.cc/douyu/9636034
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/1b5c4f7247164aeb8de4b38f95c3572c_big.jpg" group-title="原创IP", 林九影视
 https://live.ottiptv.cc/douyu/7212528
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/6b836b67e0e8428dbe583c0f5a3e45a8_big.jpg" group-title="原创IP", 贰哥电影
+https://live.ottiptv.cc/douyu/9338867
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/d75f84554e7047149883af0afb97edea_big.jpg" group-title="原创IP", 甜粉粉的旅人呀
 https://live.ottiptv.cc/douyu/7335280
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/7565232fd21840999491c0acdbb81d4d_big.jpg" group-title="原创IP", 博然讲电影
@@ -807,16 +813,8 @@ https://live.ottiptv.cc/douyu/9297412
 https://live.ottiptv.cc/douyu/9447668
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/933183e0408d49b79c9a74247e3eea49_big.jpg" group-title="原创IP", 到远方旅行
 https://live.ottiptv.cc/douyu/9614588
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/48ea73204c984397a998c64806495520_big.jpg" group-title="原创IP", LOUIS樱
-https://live.ottiptv.cc/douyu/9235284
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/99c9757ff46c42ee97fe02a9006626cb_big.jpg" group-title="原创IP", 山里记
-https://live.ottiptv.cc/douyu/9410236
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4e17e5cc984043f3aa65fe9ac4355f4f_big.jpg" group-title="原创IP", 爱星影视
-https://live.ottiptv.cc/douyu/9476806
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/a466c47344b747ab8f7861768a509b69_big.jpg" group-title="原创IP", 电影七十二变
-https://live.ottiptv.cc/douyu/9323164
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a6280c3c7e344b40b58f10a9c9bede67_big.jpg" group-title="原创IP", 女汉子说电影
-https://live.ottiptv.cc/douyu/9395966
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/3712e120be174bd19e527d393a687d94_big.jpg" group-title="原创IP", 荒野万池王
+https://live.ottiptv.cc/douyu/9544576
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/ec2cd40931d1419ca760cd189324b929_big.jpg" group-title="一起看", 科幻梦工场
 https://live.ottiptv.cc/douyu/9608874
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/b15ca853679248e4ad5cd581e1285662_big.jpg" group-title="原创IP", 怪事屋
@@ -847,6 +845,8 @@ https://live.ottiptv.cc/douyu/865331
 https://live.ottiptv.cc/douyu/884073
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/87ea711c2d7349d093b51df649c67932_big.jpg" group-title="原创IP", Co视文化
 https://live.ottiptv.cc/douyu/1060418
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202307/6156366f86844f5ca1f11def0ae3bb1d_big.jpg" group-title="原创IP", 助眠师海宝宝
+https://live.ottiptv.cc/douyu/1103328
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/1aa6fdee6e694628bfd685ddcb3795fe_big.jpg" group-title="原创IP", 渔村小马
 https://live.ottiptv.cc/douyu/1447771
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/001/81/33/80_avatar_big.jpg" group-title="原创IP", 耗子像个战神
@@ -933,8 +933,6 @@ https://live.ottiptv.cc/douyu/8712204
 https://live.ottiptv.cc/douyu/8724904
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/03_big.jpg" group-title="原创IP", shhher
 https://live.ottiptv.cc/douyu/8733680
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/b315f15b67b6435b8915c68fd8047595_big.jpg" group-title="原创IP", 少年看电影
-https://live.ottiptv.cc/douyu/8762120
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1efcd583b070476ba04e3f556481301c_big.jpg" group-title="原创IP", 粤男有话儿
 https://live.ottiptv.cc/douyu/8764282
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/c4d3e15454ec4cc8898552d3b461d7b9_big.jpg" group-title="原创IP", 沫子瞪片
@@ -959,8 +957,6 @@ https://live.ottiptv.cc/douyu/8821892
 https://live.ottiptv.cc/douyu/8829425
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/0578abffd4f84f29be5e5d9ea37c82f5_big.jpg" group-title="原创IP", 搞笑院长
 https://live.ottiptv.cc/douyu/8829915
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/7b38c1d9a9744063be1d68fc8b4682f6_big.jpg" group-title="原创IP", SAO东西又再说SAO话
-https://live.ottiptv.cc/douyu/8833450
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/b75798f7f6c04579af2ffc07fb574f9d_big.jpg" group-title="原创IP", 神迹小霸霸
 https://live.ottiptv.cc/douyu/8837963
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/9eb0bcda04c941bab38f7ab61f254b96_big.jpg" group-title="原创IP", Michael说大片
@@ -1033,8 +1029,6 @@ https://live.ottiptv.cc/douyu/9192852
 https://live.ottiptv.cc/douyu/9192932
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202412/5c111360d17448c3a0bd095493922b5c_big.jpg" group-title="原创IP", 御魔君
 https://live.ottiptv.cc/douyu/9199976
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ff0e8ec8fe80414291d78b90713c87aa_big.jpg" group-title="原创IP", 隐紫大人不会吐槽
-https://live.ottiptv.cc/douyu/9207457
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/c939d0c3e4fa4aef96fcffb31d040f58_big.jpg" group-title="原创IP", 小林家的旗女仆
 https://live.ottiptv.cc/douyu/9211287
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/9ef81ddfb46f4cdb981820de3846ca51_big.jpg" group-title="一起看", 若轻云之蔽月兮
@@ -1067,8 +1061,6 @@ https://live.ottiptv.cc/douyu/9367188
 https://live.ottiptv.cc/douyu/9368016
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/22548ff7cb0845a887da387c882645e7_big.jpg" group-title="原创IP", 女王泡面V
 https://live.ottiptv.cc/douyu/9369937
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/7fb25d9f3ba44adb882c4725c0dd3ba9_big.jpg" group-title="原创IP", 神之传说sh
-https://live.ottiptv.cc/douyu/9370168
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/978e86bded3440a780054661857841f9_big.jpg" group-title="原创IP", 吃鸡小表弟
 https://live.ottiptv.cc/douyu/9370197
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12915aa3915d4cb5b442df11a49b3942_big.jpg" group-title="原创IP", 瑟克斯潘克斯
@@ -1137,6 +1129,8 @@ https://live.ottiptv.cc/douyu/9439594
 https://live.ottiptv.cc/douyu/9442903
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/416d66d4880346a6b43ca63f6412bd0d_big.jpg" group-title="原创IP", 永无叙V
 https://live.ottiptv.cc/douyu/9442980
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/66d0c9d1f6d948e3840f4a13e19b63f4_big.jpg" group-title="原创IP", 动物启示录
+https://live.ottiptv.cc/douyu/9443129
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c2e7915a88c4461fa1345a6826331acd_big.jpg" group-title="原创IP", 君笑坊
 https://live.ottiptv.cc/douyu/9444093
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/3e3717c3b82d451e8583624a3f42e1c1_big.jpg" group-title="原创IP", 轻风乍起的号
@@ -1287,6 +1281,8 @@ https://live.ottiptv.cc/douyu/9602107
 https://live.ottiptv.cc/douyu/9606281
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/8eea0e95471b42868ca588c4752370c0_big.jpg" group-title="原创IP", 夏夜柚子树
 https://live.ottiptv.cc/douyu/9606419
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/e853666bb8094bcaa070ceab10fda806_big.jpg" group-title="原创IP", 小太V
+https://live.ottiptv.cc/douyu/9606954
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/1dab5c2f064b4b95839bc7276a751b11_big.jpg" group-title="原创IP", 然续续
 https://live.ottiptv.cc/douyu/9609171
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/ecf394794eae4912a31a68c8091e64fb_big.jpg" group-title="原创IP", 白鱼Sakana
@@ -1409,8 +1405,6 @@ https://live.ottiptv.cc/douyu/8970851
 https://live.ottiptv.cc/douyu/9329249
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b624612d90fb47349090d686aa3d7c48_big.jpg" group-title="原创IP", 大壮撞电影
 https://live.ottiptv.cc/douyu/9437349
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/26dc098fe3724d529c750038011760de_big.jpg" group-title="原创IP", 雨忆动漫
-https://live.ottiptv.cc/douyu/9568700
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/b093863a89b749d19124b7fef97240ff_big.jpg" group-title="原创IP", 内蒙卡秋
 https://live.ottiptv.cc/douyu/9067858
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 佛曰影视
@@ -1419,14 +1413,14 @@ https://live.ottiptv.cc/douyu/9671758
 https://live.ottiptv.cc/douyu/9348766
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/8fbfd84e0c8b4200ae64fbed3e1d49fc_big.jpg" group-title="原创IP", 冷孝洪
 https://live.ottiptv.cc/douyu/9527761
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/74a1d6baaf824fcd82197028cc12bf5a_big.jpg" group-title="原创IP", 咕噜咕噜剧
+https://live.ottiptv.cc/douyu/10082307
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="原创IP", 快哥说老片
 https://live.ottiptv.cc/douyu/10411518
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/e40cc2e0e80242b494ef4a9408504d52_big.jpg" group-title="原创IP", 喵妹说电影
 https://live.ottiptv.cc/douyu/9312432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="原创IP", 风云I人物志
 https://live.ottiptv.cc/douyu/9970047
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b1e0df1d09127008e65884e1ebb20425_big.jpg" group-title="原创IP", 鸡哥聊电影
-https://live.ottiptv.cc/douyu/5067952
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/cad7da6c102b49a499c6dbdb7c5b898d_big.jpg" group-title="原创IP", 腹黑电影
 https://live.ottiptv.cc/douyu/8867878
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/8d9ca73a5f5846d99a4cbff761944cab_big.jpg" group-title="原创IP", 0小行家0
@@ -1435,10 +1429,12 @@ https://live.ottiptv.cc/douyu/9280356
 https://live.ottiptv.cc/douyu/8813596
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/f3303d006e4e4a34b38fe425884bcab9_big.jpg" group-title="原创IP", 斗鱼恐怖游戏合集
 https://live.ottiptv.cc/douyu/10401481
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b1e0df1d09127008e65884e1ebb20425_big.jpg" group-title="原创IP", 鸡哥聊电影
+https://live.ottiptv.cc/douyu/5067952
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9c30d68f8feb48c29c6238caaae29753_big.jpg" group-title="原创IP", YIKa777
 https://live.ottiptv.cc/douyu/8868213
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/74a1d6baaf824fcd82197028cc12bf5a_big.jpg" group-title="原创IP", 咕噜咕噜剧
-https://live.ottiptv.cc/douyu/10082307
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/b138b678b354eda98fa065a27093d9a1_big.jpg" group-title="原创IP", 追寻那解不开的问题
+https://live.ottiptv.cc/douyu/5727066
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/201341b6d88a4f99862d026c47b8e185_big.jpg" group-title="原创IP", 龙哥盘电影
 https://live.ottiptv.cc/douyu/9736161
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/1be61689e1954fb09a6068f78365ec6a_big.jpg" group-title="一起看", 籮卜君
@@ -1447,10 +1443,10 @@ https://live.ottiptv.cc/douyu/7495810
 https://live.ottiptv.cc/douyu/12619211
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/07_big.jpg" group-title="原创IP", 老电影故事
 https://live.ottiptv.cc/douyu/9167273
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202307/6156366f86844f5ca1f11def0ae3bb1d_big.jpg" group-title="原创IP", 助眠师海宝宝
-https://live.ottiptv.cc/douyu/1103328
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/f9e9890de62c4a67aa57ff8dad066567_big.jpg" group-title="原创IP", 天才简史
 https://live.ottiptv.cc/douyu/8662915
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/23b44b3cf0514b269456e687d6dc09ed_big.jpg" group-title="原创IP", 世界纪录大全
+https://live.ottiptv.cc/douyu/9406359
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/09142828c690419abc9a627ef86d5e25_big.jpg" group-title="原创IP", 制造show
 https://live.ottiptv.cc/douyu/9550226
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/70109e3964714a3d8f9f2beace9136ce_big.jpg" group-title="原创IP", 大笑影院
@@ -1469,14 +1465,14 @@ https://live.ottiptv.cc/douyu/9480648
 https://live.ottiptv.cc/douyu/8851140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/a7fcc948672f48b4a6ec823e1633edf2_big.jpg" group-title="原创IP", 吟游诗人基德
 https://live.ottiptv.cc/douyu/9337049
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/02ede2f36bc742ef84c2696007857f36_big.jpg" group-title="原创IP", 指缝里看电影
-https://live.ottiptv.cc/douyu/9647834
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/528a7a6c53ac4b51b8f2d046fa6fcb59_big.jpg" group-title="原创IP", 电影小班长
 https://live.ottiptv.cc/douyu/549693
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/26dc098fe3724d529c750038011760de_big.jpg" group-title="原创IP", 雨忆动漫
+https://live.ottiptv.cc/douyu/9568700
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/adb509f588894ae9bed6969c70ef0ca4_big.jpg" group-title="原创IP", 鲨说电影
+https://live.ottiptv.cc/douyu/9544628
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/1850a640121145b68a52ab1754285070_big.jpg" group-title="原创IP", 村野趣事荟
 https://live.ottiptv.cc/douyu/5794474
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/e853666bb8094bcaa070ceab10fda806_big.jpg" group-title="原创IP", 小太V
-https://live.ottiptv.cc/douyu/9606954
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/622d4c75ff34411eb0d6a1ab3168b4c1_big.jpg" group-title="原创IP", 唐司令说电影
 https://live.ottiptv.cc/douyu/8774345
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201806/c91c4da3496ba69e8766230e916bff2d_big.jpg" group-title="原创IP", 动漫推荐i
@@ -1497,8 +1493,6 @@ https://live.ottiptv.cc/douyu/2569874
 https://live.ottiptv.cc/douyu/9356637
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/ecd2b2d0199b495c9e8c128383384b42_big.jpg" group-title="原创IP", 搞笑动漫大本营
 https://live.ottiptv.cc/douyu/9650181
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/8de0e3eb8e0c435bb9c60674665479af_big.jpg" group-title="原创IP", 我叫孙火旺
-https://live.ottiptv.cc/douyu/9770949
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/09_big.jpg" group-title="原创IP", 懂懂1234
 https://live.ottiptv.cc/douyu/8729614
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/0d6aca5963da4d0fbab532e695f8dd9c_big.jpg" group-title="原创IP", 九仙人儿
@@ -1509,20 +1503,26 @@ https://live.ottiptv.cc/douyu/3498219
 https://live.ottiptv.cc/douyu/8837964
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/f63a04e61bdc489b9363598fbd6fc4a2_big.jpg" group-title="原创IP", 阿坤在努力
 https://live.ottiptv.cc/douyu/9407329
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a6280c3c7e344b40b58f10a9c9bede67_big.jpg" group-title="原创IP", 女汉子说电影
+https://live.ottiptv.cc/douyu/9395966
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/46c17886371341bc8a97be079d0f6ed0_big.jpg" group-title="原创IP", 丽姐说电影
 https://live.ottiptv.cc/douyu/9437283
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/80775387adaa4eb0af669e8abcb919a6_big.jpg" group-title="原创IP", 玖月影视
 https://live.ottiptv.cc/douyu/9339251
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/105755e5d0454d258948ff497df6e627_big.jpg" group-title="原创IP", 讲故事的角马
+https://live.ottiptv.cc/douyu/4400816
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/36be493f8c094dc6b1368835011d1c6d_big.jpg" group-title="一起看", 傲娇一喵喵
+https://live.ottiptv.cc/douyu/9392610
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/48bfa42c800248529cf196660265b4fa_big.jpg" group-title="原创IP", 搞笑孟文明
 https://live.ottiptv.cc/douyu/9766337
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/caaaa8a21bee475d98629bf66e33974d_big.jpg" group-title="原创IP", 可乐家的老骑士
 https://live.ottiptv.cc/douyu/9958943
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201806/df183b1d850788d0b42ed9b8b3c0846e_big.jpg" group-title="原创IP", 涛浪浪电影
 https://live.ottiptv.cc/douyu/5424258
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5eac43c85e104f099a11bef6b80bc690_big.jpg" group-title="原创IP", UP主DJC
+https://live.ottiptv.cc/douyu/9429545
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 小猪搞笑精选
 https://live.ottiptv.cc/douyu/10329752
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/924e87bd258241ec8104ffe3beae99e0_big.jpg" group-title="一起看", 饥饿的饭桶
-https://live.ottiptv.cc/douyu/5018900
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/d5957706ea514b979b36566e3345d344_big.jpg" group-title="原创IP", 开车大神
 https://live.ottiptv.cc/douyu/9759970
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/b3fdbde2612e43778db8df9fa1e11aa1_big.jpg" group-title="原创IP", 羽翼天使的挽歌
@@ -1609,10 +1609,10 @@ https://live.ottiptv.cc/douyu/9487090
 https://live.ottiptv.cc/douyu/9660835
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/qi4n32sc4cbsiht3174xk586wlixmg3n_big.jpg" group-title="原创IP", 管哥视频
 https://live.ottiptv.cc/douyu/10181584
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/b315f15b67b6435b8915c68fd8047595_big.jpg" group-title="原创IP", 少年看电影
+https://live.ottiptv.cc/douyu/8762120
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/28f3b6684a524d9fa45c5af150b4829d_big.jpg" group-title="原创IP", 可乐撩电影
 https://live.ottiptv.cc/douyu/9371552
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/23b44b3cf0514b269456e687d6dc09ed_big.jpg" group-title="原创IP", 世界纪录大全
-https://live.ottiptv.cc/douyu/9406359
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/e8e9ecc27ecb4be3aedaeb584ab18a8f_big.jpg" group-title="原创IP", 冷君聊大片
 https://live.ottiptv.cc/douyu/9666219
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/7d3a65ab993142a9a676fdd246b74ec0_big.jpg" group-title="原创IP", 野格影视
@@ -1625,8 +1625,8 @@ https://live.ottiptv.cc/douyu/9356937
 https://live.ottiptv.cc/douyu/9476790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/40577722f0114abb81c0f8175d2a63ee_big.jpg" group-title="原创IP", 小超讲电影
 https://live.ottiptv.cc/douyu/3432645
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/8ea249a4f78b4590a98e12c50667a3e1_big.jpg" group-title="原创IP", 秀才侃娱乐
-https://live.ottiptv.cc/douyu/9382873
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/7b38c1d9a9744063be1d68fc8b4682f6_big.jpg" group-title="原创IP", SAO东西又再说SAO话
+https://live.ottiptv.cc/douyu/8833450
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5a57e546b2b14d2d9ba390d6305b8f0c_big.jpg" group-title="原创IP", 沉郁观影
 https://live.ottiptv.cc/douyu/9393577
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/3951a701afc940fa9c5005f56a6f37bd_big.jpg" group-title="原创IP", 小刚学长o
@@ -1637,8 +1637,6 @@ https://live.ottiptv.cc/douyu/9329185
 https://live.ottiptv.cc/douyu/9481151
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/791cf332c1f845d1a315869704d7d860_big.jpg" group-title="原创IP", 猫叔说电影
 https://live.ottiptv.cc/douyu/9820039
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5eac43c85e104f099a11bef6b80bc690_big.jpg" group-title="原创IP", UP主DJC
-https://live.ottiptv.cc/douyu/9429545
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/cca40ed64ea94ced878d6b80564bcd83_big.jpg" group-title="原创IP", 政宗君de情敵
 https://live.ottiptv.cc/douyu/9624330
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/1c29bc7814e249f9b21aff8b4fc26262_big.jpg" group-title="原创IP", 天才霸总的狐崽崽
@@ -1651,8 +1649,6 @@ https://live.ottiptv.cc/douyu/9336437
 https://live.ottiptv.cc/douyu/9440728
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/b9a7a6042743438f9876c06f0a428baf_big.jpg" group-title="原创IP", 淼漫迷
 https://live.ottiptv.cc/douyu/9455567
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/adb509f588894ae9bed6969c70ef0ca4_big.jpg" group-title="原创IP", 鲨说电影
-https://live.ottiptv.cc/douyu/9544628
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/93ef02923f16476dbd36f5222fb21c51_big.jpg" group-title="原创IP", 火宗君丶
 https://live.ottiptv.cc/douyu/9580477
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/e7bad7af4e644672a1e1e9d61fd0bad7_big.jpg" group-title="原创IP", 娱乐扒叔
@@ -1671,6 +1667,8 @@ https://live.ottiptv.cc/douyu/8706350
 https://live.ottiptv.cc/douyu/8891285
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5d6c1395c02d4e6995a6b2259f725da2_big.jpg" group-title="原创IP", 画渣花小烙
 https://live.ottiptv.cc/douyu/9072066
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ff0e8ec8fe80414291d78b90713c87aa_big.jpg" group-title="原创IP", 隐紫大人不会吐槽
+https://live.ottiptv.cc/douyu/9207457
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/54dff59a977a466a9258597859d2d3d0_big.jpg" group-title="原创IP", 阿忙赶海
 https://live.ottiptv.cc/douyu/9348876
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/dd8d48ca764c4845827ec4c9a53b8a1d_big.jpg" group-title="原创IP", 小岛讲电影
@@ -1681,6 +1679,8 @@ https://live.ottiptv.cc/douyu/9461930
 https://live.ottiptv.cc/douyu/3617935
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/4cfd8319813447369958a6cda6e30486_big.jpg" group-title="一起看", a萌小翘臀
 https://live.ottiptv.cc/douyu/7552568
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/03_big.jpg" group-title="原创IP", 说说电影故事
+https://live.ottiptv.cc/douyu/9444627
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/ad4cf4b75724416ea4c6bd95f5877d33_big.jpg" group-title="原创IP", LCPD拉登
 https://live.ottiptv.cc/douyu/9503015
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/8c49090cabc54b2c8e7be81ba85b8361_big.jpg" group-title="一起看", Acer丶宏正
@@ -1699,8 +1699,6 @@ https://live.ottiptv.cc/douyu/8850453
 https://live.ottiptv.cc/douyu/9368265
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/43c31526c6f74a119cc8d2658563327b_big.jpg" group-title="原创IP", 怪味爆米花电影
 https://live.ottiptv.cc/douyu/9422144
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/03_big.jpg" group-title="原创IP", 说说电影故事
-https://live.ottiptv.cc/douyu/9444627
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/f0ea5321efa441b5aa46be5d2fe10eb5_big.jpg" group-title="原创IP", 剧透大爆炸
 https://live.ottiptv.cc/douyu/1739752
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/06b07b6587c242229bf9c3f4be6a4912_big.jpg" group-title="原创IP", 大趴电影院
@@ -1763,6 +1761,8 @@ https://live.ottiptv.cc/douyu/10329310
 https://live.ottiptv.cc/douyu/1039732
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/6e2e8212f29647c3a77522f1cefec72d_big.jpg" group-title="原创IP", 二次元fans鹿鹿
 https://live.ottiptv.cc/douyu/8661526
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/48ea73204c984397a998c64806495520_big.jpg" group-title="原创IP", LOUIS樱
+https://live.ottiptv.cc/douyu/9235284
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/23eb683da36443f1906bec6ef75b8da2_big.jpg" group-title="原创IP", 我是瓜皮儿本人a
 https://live.ottiptv.cc/douyu/9665696
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/14_big.jpg" group-title="原创IP", 说笑武林
@@ -1771,12 +1771,6 @@ https://live.ottiptv.cc/douyu/10329706
 https://live.ottiptv.cc/douyu/1528853
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/09/21/c790691e499e024f78fc78ff8a6fd7ab_big.jpg" group-title="原创IP", KUMA轻松熊博士
 https://live.ottiptv.cc/douyu/2282604
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/105755e5d0454d258948ff497df6e627_big.jpg" group-title="原创IP", 讲故事的角马
-https://live.ottiptv.cc/douyu/4400816
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/fdd84251e9254a9e8e144229a73a501b_big.jpg" group-title="一起看", 怀旧90
-https://live.ottiptv.cc/douyu/9275635
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/36be493f8c094dc6b1368835011d1c6d_big.jpg" group-title="一起看", 傲娇一喵喵
-https://live.ottiptv.cc/douyu/9392610
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/cc023fa999b14c92813bdc0219994f37_big.jpg" group-title="原创IP", 乡村水龙
 https://live.ottiptv.cc/douyu/9486905
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/34319943d8f146a2b16686f3a8716c71_big.jpg" group-title="原创IP", 大河庄一世繁华
@@ -1791,8 +1785,6 @@ https://live.ottiptv.cc/douyu/9630581
 https://live.ottiptv.cc/douyu/9665298
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/35029a3bee954c7f9ada657a391a3369_big.jpg" group-title="原创IP", 曹小灵比比叨
 https://live.ottiptv.cc/douyu/10289400
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/12/87bbb595c8994f98df0f307aacccf94a_big.jpg" group-title="原创IP", 老人家小熊猫君
-https://live.ottiptv.cc/douyu/753342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/a66e8285c10c4416967bf92c284746a3_big.jpg" group-title="原创IP", 西施撩电影
 https://live.ottiptv.cc/douyu/7532080
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/ded6deb76fb44e63aa7455059fd45cb3_big.jpg" group-title="原创IP", 瓦岗寨主坑爹李
@@ -1845,8 +1837,6 @@ https://live.ottiptv.cc/douyu/9047060
 https://live.ottiptv.cc/douyu/9191006
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/31d19c4862a44718846dfe5bafbcb1d4_big.jpg" group-title="原创IP", 铁头钢脚
 https://live.ottiptv.cc/douyu/9322081
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/66d0c9d1f6d948e3840f4a13e19b63f4_big.jpg" group-title="原创IP", 动物启示录
-https://live.ottiptv.cc/douyu/9443129
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/95d56dcdb89643c380fca2b98031a423_big.jpg" group-title="原创IP", 养狗的一浩
 https://live.ottiptv.cc/douyu/9478842
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/f8d59e28e6f341358862600ab86fcd83_big.jpg" group-title="原创IP", 开箱嘤嘤怪
@@ -1861,6 +1851,10 @@ https://live.ottiptv.cc/douyu/1600769
 https://live.ottiptv.cc/douyu/8821917
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/80cb3b46ff114b31829acda0b649014e_big.jpg" group-title="原创IP", 周队长captain
 https://live.ottiptv.cc/douyu/9023539
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/fdd84251e9254a9e8e144229a73a501b_big.jpg" group-title="一起看", 怀旧90
+https://live.ottiptv.cc/douyu/9275635
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/8ea249a4f78b4590a98e12c50667a3e1_big.jpg" group-title="原创IP", 秀才侃娱乐
+https://live.ottiptv.cc/douyu/9382873
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/452c999cb21f4b2886d04172cce10802_big.jpg" group-title="原创IP", TUOK肖恩
 https://live.ottiptv.cc/douyu/9392433
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/d3a51ef0a1094fc1a28870b9b788350d_big.jpg" group-title="原创IP", 小羊放映室
@@ -1893,11 +1887,11 @@ https://live.ottiptv.cc/douyu/10329702
 https://live.ottiptv.cc/douyu/2798717
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/c6fd2c716b044675b1937cecc9aeb296_big.jpg" group-title="原创IP", 动漫唯美風
 https://live.ottiptv.cc/douyu/8912038
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/7fb25d9f3ba44adb882c4725c0dd3ba9_big.jpg" group-title="原创IP", 神之传说sh
+https://live.ottiptv.cc/douyu/9370168
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/17/77bafecfb80a708fa86ec8a31d382556_big.jpg" group-title="一起看", 只想中奖噢
 https://live.ottiptv.cc/douyu/8357389
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/810229d945bc49e6a8b22ea332d5a114_big.jpg" group-title="一起看", 微梦屋
 https://live.ottiptv.cc/douyu/7027040
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/6e1d580a5d0c401994919ac9a7fe695b_big.jpg" group-title="一起看", 创世幻神
 https://live.ottiptv.cc/douyu/9682185
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 影视英雄汇
-https://live.ottiptv.cc/douyu/10240495
